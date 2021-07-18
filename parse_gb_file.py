@@ -36,11 +36,11 @@ def get_seq_country_and_year(seq_record):
 
 def get_seq_gt(seq_record):
 	'''
-	gt info may in:
+	gt info may occurs in these two items:
 		1) source.organism = "HBV genotype B"
 		2) source.note = "genotype: B, subgenotype: B2"
 
-	we will check the two info
+	we will check these two items for gt and sub_gt info
 	'''
 	for feature in seq_record.features:
 		if feature.type == "source":
@@ -84,8 +84,6 @@ def get_seq_len(seq_record):
 
 def get_fasta(seq_record):
 	seq_arr = seq_record.format('fasta').split('\n')
-	# we need to remove '>' and later use >seq_name|version|country|year|genotype|sub.gt|len to replace it
-	
 	'''
 	need to remove first and last item
 
@@ -116,7 +114,6 @@ def main():
 	fa = get_fasta(record)
 
 	of = open(outfile,'w')
-	#seq_h = '>%s|version:%s|%s|%s|genotype:%s|sub_gt:%s|len:%s' % (seq_name,seq_v,seq_country,seq_year,gt,sub_gt,seq_len)
 	seq_h = '>%s|genotype:%s|sub_gt:%s|len:%s|country:%s|year:%s|version:%s' %(seq_name,gt,sub_gt,seq_len,seq_country,seq_year,seq_v)
 	of.write(seq_h+'\n')
 	of.write(fa+'\n')
