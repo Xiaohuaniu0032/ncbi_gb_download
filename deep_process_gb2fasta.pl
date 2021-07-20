@@ -72,16 +72,14 @@ for my $h (@headers){
 	my $year = $h[5];
 
 	my $new_gt = &process_gt($gt,$type);
-	#next if ($new_gt eq "NA"); # skip seq with no genotype information
+	#print "$gt\t$new_gt\n";
+	#next if ($new_gt eq "genotype:NA"); # skip
+
 	my $country_new = &process_country_info($country);
 
 	# new name format: >name|genotype:x|len:x|country:x|year:x
 	my $h_new = "\>$name\|$new_gt\|$len\|$country_new\|$year";
-
-	# skip seq with no gt
-	next if $new_gt eq "genotype:NA";
 	#print "new:$h_new\n";
-
 	push @headers_new, $h_new;
 }
 
@@ -126,18 +124,30 @@ sub process_gt{
 	my ($gt,$type) = @_;
 	my $gt_new;
 	if ($type eq "HBV"){
+
+		# for recombination type
+		# less /home/fulongfei/projects/HBVdb/combine/NCBI.HBV.fasta|grep ">"|cut -d "|" -f 2|grep "/"|sort|uniq -c|sort -k1nr|less
+
+
 		# HBV do not need sub genotype info
 		# 7838 genotype: C
 		# 7367 genotype: D
 		# 1178 genotype: A1
 		# 933  genotype: C1
+
+		# for recombination type
 		# 861  genotype: B/C # recombination type
-		# 160  genotype C2/Ce (skip this, the right genotype is )
+		# 160  genotype C2/Ce (recombination, will skip)
 		# 103  subtype: Ce/C2; genotype: C
-		# 122  genotype: C/D
+		# 122  genotype: C/D (recombination, keep)
 		# 40   genotype: C/D
  		if ($gt eq "genotype:NA"){
 			$gt_new = "genotype:NA";
+		}elsif($gt =~ /(genotype:\s[A-Z]\/[A-Z])/){ # will skip: genotype C2/Ce
+			# recombination type
+			my $temp = $1;
+			my @arr = split /\s+/, $temp;
+			$gt_new = "genotype:".$arr[1];
 		}elsif ($gt =~ /(genotype:[A-Z])/){
 			$gt_new = $1;
 		}elsif ($gt =~ /(genotype:\s[A-Z])/){
