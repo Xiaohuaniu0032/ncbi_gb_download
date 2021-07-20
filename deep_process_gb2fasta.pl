@@ -12,7 +12,7 @@ use FindBin qw/$Bin/;
 my ($fasta,$type,$outdir);
 
 GetOptions(
-	"i:s" => \$fasta,		# fasta need to further precess          [Need]
+	"i:s" => \$fasta,       # fasta need to further precess          [Need]
 	"t:s" => \$type,        # HBV or HCV, used to see len filter     [Need]
 	"od:s" => \$outdir,     # outdir                                 [Need]
 ) or die "$!\n";
