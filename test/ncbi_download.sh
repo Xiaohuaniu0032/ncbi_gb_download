@@ -1,0 +1,3 @@
+python3 /home/fulongfei/projects/ncbi_gb_download/bin/ncbi_fasta_download.py HBV.Accession.7.list /home/fulongfei/projects/ncbi_gb_download/test/download.gbk /home/fulongfei/projects/ncbi_gb_download/test/download.gbk.log
+python3 /home/fulongfei/projects/ncbi_gb_download/bin/parse_gb_file.v2.py -gb /home/fulongfei/projects/ncbi_gb_download/test/download.gbk -of /home/fulongfei/projects/ncbi_gb_download/test/download.fasta
+perl /home/fulongfei/projects/ncbi_gb_download/bin/deep_process_gb2fasta.pl -i /home/fulongfei/projects/ncbi_gb_download/test/download.fasta -t HBV -od /home/fulongfei/projects/ncbi_gb_download/test >/home/fulongfei/projects/ncbi_gb_download/test/HBV.filter.log

@@ -1,0 +1,656 @@
+LOCUS       KF169292                 617 bp    DNA     linear   VRL 01-NOV-2013
+DEFINITION  Hepatitis B virus isolate 2762 large S protein (S), middle S
+            protein (S), and S protein (S) genes, partial cds.
+ACCESSION   KF169292
+VERSION     KF169292.1
+KEYWORDS    .
+SOURCE      Hepatitis B virus
+  ORGANISM  Hepatitis B virus
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Blubervirales; Hepadnaviridae; Orthohepadnavirus.
+REFERENCE   1  (bases 1 to 617)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     A cohort of patients with chronic hepatitis B from Changzheng
+            hospital, Shanghai, China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 617)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2013) Epidemiology, Second Military Medical
+            University, 800 Xiangyin Rd., Shanghai 200433, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.05
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..617
+                     /organism="Hepatitis B virus"
+                     /mol_type="genomic DNA"
+                     /isolate="2762"
+                     /isolation_source="HBV-infected patients from Changzheng
+                     hospital"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:10407"
+                     /country="China"
+                     /collection_date="2004"
+     gene            1..>617
+                     /gene="S"
+     CDS             1..>617
+                     /gene="S"
+                     /note="preS1 protein"
+                     /codon_start=1
+                     /product="large S protein"
+                     /protein_id="AGP14379.1"
+                     /translation="MGGWSSKPRKGMGTNLSVPNPLGFFPDHQLDPAFKANSENPDWD
+                     FNPHKDNWPDANKVGVGAFGPGFTPPHGGLLGWSPQAQGIFTTVPAAPPPASTNRQSG
+                     RQPTPLSPPLRDTHPQAMQWNSTTFHQTLQDPRVRALYFPAGGSSSGTVSPAQNTVSA
+                     ISSILSKTGDPVPNMENIASGLLGPLLVLQAGFFLLTKILTIPQSL"
+     CDS             358..>617
+                     /gene="S"
+                     /note="preS2 protein"
+                     /codon_start=1
+                     /product="middle S protein"
+                     /protein_id="AGP14380.1"
+                     /translation="MQWNSTTFHQTLQDPRVRALYFPAGGSSSGTVSPAQNTVSAISS
+                     ILSKTGDPVPNMENIASGLLGPLLVLQAGFFLLTKILTIPQSL"
+     CDS             523..>617
+                     /gene="S"
+                     /note="HBsAg"
+                     /codon_start=1
+                     /product="S protein"
+                     /protein_id="AGP14381.1"
+                     /translation="MENIASGLLGPLLVLQAGFFLLTKILTIPQSL"
+ORIGIN      
+        1 atgggaggtt ggtcttccaa acctcgaaaa ggcatgggga caaatctttc tgtccccaat
+       61 cccctgggat tcttccccga tcatcagttg gaccctgcat tcaaagccaa ctcagaaaat
+      121 ccagattggg acttcaaccc gcacaaggac aactggccgg acgccaacaa ggtgggagtg
+      181 ggagcattcg ggccagggtt cacccctccc catgggggac tgttggggtg gagccctcag
+      241 gctcagggca tattcacaac tgtgccagca gctcctcctc ctgcctccac caatcggcag
+      301 tcaggaaggc agcctactcc cttatctcca cctctaaggg acactcatcc tcaggccatg
+      361 cagtggaact ccaccacttt ccaccaaact cttcaagatc ccagagtcag ggccctgtac
+      421 tttcctgctg gtggctccag ttcaggaaca gtgagccctg ctcagaatac tgtctctgcc
+      481 atatcgtcaa tcttatcgaa gactggggac cctgtaccga acatggagaa catcgcatca
+      541 ggactcctag gacccctgct cgtgttacag gcggggtttt tcttgttgac aaaaatcctc
+      601 acaataccac agagtct
+//
+LOCUS       KF169291                 231 bp    DNA     linear   VRL 01-NOV-2013
+DEFINITION  Hepatitis B virus isolate 2761 large S protein (S) gene, partial
+            cds; and nonfunctional middle S protein (S) and nonfunctional S
+            protein (S) genes, partial sequence.
+ACCESSION   KF169291
+VERSION     KF169291.1
+KEYWORDS    .
+SOURCE      Hepatitis B virus
+  ORGANISM  Hepatitis B virus
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Blubervirales; Hepadnaviridae; Orthohepadnavirus.
+REFERENCE   1  (bases 1 to 231)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     A cohort of patients with chronic hepatitis B from Changzheng
+            hospital, Shanghai, China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 231)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2013) Epidemiology, Second Military Medical
+            University, 800 Xiangyin Rd., Shanghai 200433, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.05
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..231
+                     /organism="Hepatitis B virus"
+                     /mol_type="genomic DNA"
+                     /isolate="2761"
+                     /isolation_source="HBV-infected patients from Changzheng
+                     hospital"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:10407"
+                     /country="China"
+                     /collection_date="2004"
+     gene            1..>231
+                     /gene="S"
+     CDS             1..>231
+                     /gene="S"
+                     /note="preS1 protein"
+                     /codon_start=1
+                     /product="large S protein"
+                     /protein_id="AGP14378.1"
+                     /translation="MGGWSSKPRKGMGTNLSVPNPLGFFPDHQLDPAFKANSENPDWD
+                     LNPHKDNWPDANKVGVGAFGPGFTPPHGGLVGW"
+     misc_feature    230..>231
+                     /gene="S"
+                     /note="nonfunctional middle S protein due to mutation;
+                     preS2 protein"
+     misc_feature    231..>231
+                     /gene="S"
+                     /note="nonfunctional S protein due to mutation; HBsAg"
+ORIGIN      
+        1 atgggaggtt ggtcttccaa acctcgaaaa ggcatgggga caaatctttc tgtccccaat
+       61 cccctgggat tcttccccga tcatcagttg gaccctgcat tcaaagccaa ctcagaaaat
+      121 ccagattggg acctcaaccc acacaaggac aactggccgg acgccaacaa ggtgggagtg
+      181 ggagcattcg ggccagggtt cacccctccc catgggggac tggtggggtg g
+//
+LOCUS       KF169290                 606 bp    DNA     linear   VRL 01-NOV-2013
+DEFINITION  Hepatitis B virus isolate 276 large S protein (S), middle S protein
+            (S), and S protein (S) genes, partial cds.
+ACCESSION   KF169290
+VERSION     KF169290.1
+KEYWORDS    .
+SOURCE      Hepatitis B virus
+  ORGANISM  Hepatitis B virus
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Blubervirales; Hepadnaviridae; Orthohepadnavirus.
+REFERENCE   1  (bases 1 to 606)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     A cohort of patients with chronic hepatitis B from Changzheng
+            hospital, Shanghai, China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 606)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2013) Epidemiology, Second Military Medical
+            University, 800 Xiangyin Rd., Shanghai 200433, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.05
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..606
+                     /organism="Hepatitis B virus"
+                     /mol_type="genomic DNA"
+                     /isolate="276"
+                     /isolation_source="HBV-infected patients from Changzheng
+                     hospital"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:10407"
+                     /country="China"
+                     /collection_date="2006"
+     gene            1..>606
+                     /gene="S"
+     CDS             1..>606
+                     /gene="S"
+                     /note="preS1 protein"
+                     /codon_start=1
+                     /product="large S protein"
+                     /protein_id="AGP14375.1"
+                     /translation="MGGRSSKPRQGMGTNLSVPNPLGFFPDHQLDPAFGANSNNPDWD
+                     FNPNKDHWPEANQVGAGAFGPGFTPPHGGLLGWSPQAQGILTTVPAAPPPAATNRQSG
+                     RQPTPISPPLRDSHPQAMQWNSTTFHQALLDPRVRGLYFPAGGSSSGTVNPVPTTASP
+                     ISSIFSRTGDPALNMESTTSGFLGPLLVLQAGFFLLTRILTI"
+     CDS             358..>606
+                     /gene="S"
+                     /note="preS2 protein"
+                     /codon_start=1
+                     /product="middle S protein"
+                     /protein_id="AGP14376.1"
+                     /translation="MQWNSTTFHQALLDPRVRGLYFPAGGSSSGTVNPVPTTASPISS
+                     IFSRTGDPALNMESTTSGFLGPLLVLQAGFFLLTRILTI"
+     CDS             523..>606
+                     /gene="S"
+                     /note="HBsAg"
+                     /codon_start=1
+                     /product="S protein"
+                     /protein_id="AGP14377.1"
+                     /translation="MESTTSGFLGPLLVLQAGFFLLTRILTI"
+ORIGIN      
+        1 atgggaggtc ggtcttccaa acctcgacaa ggcatgggga cgaatctttc tgttcccaat
+       61 cctctgggat tctttcccga tcaccagttg gaccctgcgt tcggagccaa ctcaaacaat
+      121 ccagattggg acttcaaccc caacaaggat cattggccag aggcaaatca ggtaggagcg
+      181 ggagcattcg ggccagggtt caccccacca cacggcggtc ttttggggtg gagccctcag
+      241 gctcagggca tattgacaac agtgccagca gcacctcctc ctgccgccac caatcggcag
+      301 tcaggaagac agcctactcc catctctcca cctctaagag acagtcatcc tcaggccatg
+      361 cagtggaact ccacaacatt ccaccaagct ctgctagatc ccagagtgag gggcctatat
+      421 tttcctgctg gtggctccag ttccggaaca gtaaaccctg ttccgactac tgcctcaccc
+      481 atatcgtcaa tcttctcgag gactggggac cctgcactga acatggagag cacaacatca
+      541 ggattcctag gacccctgct cgtgttacag gcggggtttt tcttgttgac aagaatcctc
+      601 acaata
+//
+LOCUS       KF169289                 617 bp    DNA     linear   VRL 01-NOV-2013
+DEFINITION  Hepatitis B virus isolate 2755 large S protein (S) gene, partial
+            cds; nonfunctional middle S protein (S) gene, partial sequence; and
+            S protein (S) gene, partial cds.
+ACCESSION   KF169289
+VERSION     KF169289.1
+KEYWORDS    .
+SOURCE      Hepatitis B virus
+  ORGANISM  Hepatitis B virus
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Blubervirales; Hepadnaviridae; Orthohepadnavirus.
+REFERENCE   1  (bases 1 to 617)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     A cohort of patients with chronic hepatitis B from Changzheng
+            hospital, Shanghai, China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 617)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2013) Epidemiology, Second Military Medical
+            University, 800 Xiangyin Rd., Shanghai 200433, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.05
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..617
+                     /organism="Hepatitis B virus"
+                     /mol_type="genomic DNA"
+                     /isolate="2755"
+                     /isolation_source="HBV-infected patients from Changzheng
+                     hospital"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:10407"
+                     /country="China"
+                     /collection_date="2004"
+     gene            1..>617
+                     /gene="S"
+     CDS             1..>617
+                     /gene="S"
+                     /note="preS1 protein"
+                     /codon_start=1
+                     /product="large S protein"
+                     /protein_id="AGP14373.1"
+                     /translation="MGGWSSKPRQGMGTNLSVPNPLGFFPDHQLDPAFGANSNNPDWD
+                     FNPNKDHWPEANQVGVGAFGPGFTPPHGGLLGWSPQAQGILTTVPAAPPPASTNRQSG
+                     RQPTPISPPLRDSHPQATQWNSTTFHQALLDPRVRGLYFPAGGSSSGTINPVPTTASP
+                     TSSIFSRTGDPAPNMENTTSGFLGPLLVLQAGFFLLTRILTIPQSL"
+     misc_feature    358..>617
+                     /gene="S"
+                     /note="nonfunctional middle S protein due to mutation;
+                     preS2 protein"
+     CDS             523..>617
+                     /gene="S"
+                     /note="HBsAg"
+                     /codon_start=1
+                     /product="S protein"
+                     /protein_id="AGP14374.1"
+                     /translation="MENTTSGFLGPLLVLQAGFFLLTRILTIPQSL"
+ORIGIN      
+        1 atgggaggtt ggtcctccaa acctcgacaa ggcatgggga cgaatctttc tgttcccaat
+       61 cctctgggat tctttcccga tcaccagttg gaccctgcgt tcggagccaa ctcaaacaat
+      121 ccagattggg acttcaaccc caacaaggat cactggccag aggcaaatca ggtaggagtg
+      181 ggagcattcg ggccagggtt caccccacca cacggcggtc ttttggggtg gagccctcag
+      241 gctcagggca tattgacaac agtgccagca gcacctcctc ctgcctcaac caatcggcag
+      301 tcagggagac agcctactcc catctctcca cctctaagag acagtcatcc tcaggccacg
+      361 cagtggaact ccacaacatt ccaccaagct ctgctagatc ccagagtgag gggcctatat
+      421 tttcctgctg gtggctccag ttccggaaca ataaaccctg ttccgactac tgcctctccc
+      481 acatcgtcaa tcttctcgag gactggggac cctgcaccga acatggagaa cacaacatca
+      541 ggattcctag gacccctgct cgtgttacag gcggggtttt tcttgttgac aagaatcctc
+      601 acaataccac agagtct
+//
+LOCUS       KF169288                 617 bp    DNA     linear   VRL 01-NOV-2013
+DEFINITION  Hepatitis B virus isolate 2750 large S protein (S), middle S
+            protein (S), and S protein (S) genes, partial cds.
+ACCESSION   KF169288
+VERSION     KF169288.1
+KEYWORDS    .
+SOURCE      Hepatitis B virus
+  ORGANISM  Hepatitis B virus
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Blubervirales; Hepadnaviridae; Orthohepadnavirus.
+REFERENCE   1  (bases 1 to 617)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     A cohort of patients with chronic hepatitis B from Changzheng
+            hospital, Shanghai, China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 617)
+  AUTHORS   Pu,R., Yin,J. and Cao,G.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAY-2013) Epidemiology, Second Military Medical
+            University, 800 Xiangyin Rd., Shanghai 200433, China
+COMMENT     ##Assembly-Data-START##
+            Assembly Method       :: MEGA v. 5.05
+            Sequencing Technology :: Sanger dideoxy sequencing
+            ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..617
+                     /organism="Hepatitis B virus"
+                     /mol_type="genomic DNA"
+                     /isolate="2750"
+                     /isolation_source="HBV-infected patients from Changzheng
+                     hospital"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:10407"
+                     /country="China"
+                     /collection_date="2004"
+     gene            1..>617
+                     /gene="S"
+     CDS             1..>617
+                     /gene="S"
+                     /note="preS1 protein"
+                     /codon_start=1
+                     /product="large S protein"
+                     /protein_id="AGP14370.1"
+                     /translation="MGGWSSKPRKGMGTNLSVPNPLGFFPDHQLDPAFKANSENPDWD
+                     LNLHKDNWPDANKVGVGAFGPGFTPPHGGLLGWSPQAQGIPTTVPAAPPPASTNRQSG
+                     RQPTPLSPPLRDTHPQAMQWNSTTFLQTLQDPRVRALYLPAGGSSSGTVSPAQNTVSA
+                     ISSILSKTGDPVPNMENIASGLLGPLLVLQAGFFLLTKILTIPQSL"
+     CDS             358..>617
+                     /gene="S"
+                     /note="preS2 protein"
+                     /codon_start=1
+                     /product="middle S protein"
+                     /protein_id="AGP14371.1"
+                     /translation="MQWNSTTFLQTLQDPRVRALYLPAGGSSSGTVSPAQNTVSAISS
+                     ILSKTGDPVPNMENIASGLLGPLLVLQAGFFLLTKILTIPQSL"
+     CDS             523..>617
+                     /gene="S"
+                     /note="HBsAg"
+                     /codon_start=1
+                     /product="S protein"
+                     /protein_id="AGP14372.1"
+                     /translation="MENIASGLLGPLLVLQAGFFLLTKILTIPQSL"
+ORIGIN      
+        1 atgggaggtt ggtcttccaa acctcgaaaa ggcatgggga caaatctttc tgtccccaat
+       61 cccctgggat tcttccccga tcatcagttg gaccctgcat tcaaagccaa ctcagaaaat
+      121 ccagattggg acctcaacct gcacaaggac aactggccgg acgccaacaa ggtgggagtg
+      181 ggagcattcg ggccagggtt cacccctccc catgggggat tgttggggtg gagccctcag
+      241 gctcagggca tacccacaac tgtgccagca gctcctcctc ctgcctccac caatcggcag
+      301 tcaggaaggc agcctactcc cttatctcca cctctaaggg acactcatcc tcaggccatg
+      361 cagtggaact ccaccacttt cctccaaact cttcaagatc ccagagtcag ggccctgtac
+      421 cttcctgctg gtggctccag ttcaggaaca gtgagccctg ctcagaatac tgtctctgcc
+      481 atatcgtcaa tcttatcgaa gactggggac cctgtaccga acatggagaa catcgcatca
+      541 ggactcctag gacccctgct cgtgttacag gcggggtttt tcttgttgac aaaaatcctc
+      601 acaataccac agagtct
+//
+LOCUS       AB981583                3215 bp    DNA     circular VRL 24-MAR-2015
+DEFINITION  HBV genotype B DNA, complete genome, isolate: P2-121214.
+ACCESSION   AB981583
+VERSION     AB981583.1
+KEYWORDS    .
+SOURCE      HBV genotype B
+  ORGANISM  HBV genotype B
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Blubervirales; Hepadnaviridae; Orthohepadnavirus.
+REFERENCE   1
+  AUTHORS   Kamitsukasa,H., Iri,M., Tanaka,A., Nagashima,S., Takahashi,M.,
+            Nishizawa,T. and Okamoto,H.
+  TITLE     Spontaneous reactivation of hepatitis B virus (HBV) infection in
+            patients with resolved or occult HBV infection
+  JOURNAL   J. Med. Virol. 87 (4), 589-600 (2015)
+   PUBMED   25612181
+  REMARK    DOI:10.1002/jmv.24115
+REFERENCE   2  (bases 1 to 3215)
+  AUTHORS   Okamoto,H. and Nishizawa,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Contact:Hiroaki Okamoto Jichi Medical
+            University School of Medicine, Division of Virology, Department of
+            Infection and Immunity; 3311-1 Yakushiji, Shimotsuke, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3215
+                     /organism="HBV genotype B"
+                     /mol_type="genomic DNA"
+                     /isolate="P2-121214"
+                     /isolation_source="human serum isolated from a Japanese
+                     patient with reactivation from occult HBV infection."
+                     /host="Homo sapiens"
+                     /db_xref="taxon:489460"
+                     /country="Japan:Tokyo"
+                     /collection_date="2012-12-14"
+                     /note="genotype: B, subgenotype: B2"
+     gene            order(2307..3215,1..1623)
+                     /gene="P"
+     CDS             join(2307..3215,1..1623)
+                     /gene="P"
+                     /codon_start=1
+                     /product="polymerase"
+                     /protein_id="BAQ95577.1"
+                     /translation="MPLSYQHFRKLLLLDEEAGPLEEELPRLADEGLNRRVAEDLNLG
+                     NLNVSIPWTHKVGNFTGLYSSTVPCFNPXWQTPSFPDIHLQEDIVDRCKXFVGPLTVN
+                     ENRRLKLIMPARFYPNVTKYLPLDKGIKPYYPEHVVNHYFQTRHYLHTLWKAGILYKR
+                     ESTRSASFCGSPYSWEQDLQHGRLVFQTSKRHGDKSFCPQSPGILPRSSVGPCIQSQL
+                     XKSRLGPQPAQGQLAGRQQGGSGSIRARVHPSPWGTVGVEPSGSGHTHNCASSSSSCL
+                     HQSAVRKAAYSLISTSKGHSSSGHAVELHHFPPNSSRSQSQGPVLSCWWLQFRNSEPC
+                     SDYCLCHIVNLIEDWGPCTEHGEHRIRTPRTPARVTGGVFLVDKNPHNTTESRLVVDF
+                     SQFSRGXTRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVG
+                     SSGLSRYVARLSSXSRIXNNQHRTMQNLHDSCSRNLYXSLMLLYKTYGRKLHLYSHPI
+                     ILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESL
+                     YAAVTNFLLSLGIHLNPHKTKRWGYSLNFMGYVIGCWGTLPQEHIVQKIKMCFRKLPV
+                     NRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQAKQAFTFSPTYKAFLSKQYL
+                     NLYPVTRQRSGLCQVFADATPTGWGLAIGXQRMRGTFVSPLPIHTAELLAACFARSRS
+                     GAKLIGTDNSVVLSRKYTSFPWLLGCAANWILRGTSFVYVPSALNPADDPSRGRLGLY
+                     RPLLRLLYRPTTGRTSLYADSPSVPSHLPDRVHFASPLHVAWRPP"
+     gene            order(2848..3215,1..835)
+                     /gene="preS1/preS2/S"
+     CDS             join(2848..3215,1..835)
+                     /gene="preS1/preS2/S"
+                     /codon_start=1
+                     /product="env protein"
+                     /protein_id="BAQ95578.1"
+                     /translation="MGGWSSKPRKGMGTNLSVPNPLGFFPDHQLDPAFKANSZNPDWD
+                     LNPHKDNWPDANKVGVGAFGPGFIPPHGGLLGWXPQAQGILTTVPAAPPPASTNRQSG
+                     RQPTPLSPPLRDTHPQAMQWNSTTFHQTLQDPRVRALYFPAGGSSSGTVSPAQTTVSA
+                     ISSILSKTGDPVPNMENIASGLLGPLLVLQAGFFLLTKILTIPQSLDSWWTSLNFLGG
+                     XPVCLGQNSQSQISSHSXTCCPPICPGYRWMCLRRFIIFLCILLLCLIFLLVLLDYXG
+                     MLPVCPXJPGSXTTSTGPCKTCTTPAQGTSXXPSCCCTKPTDGNCTCIPIPSSWAFAK
+                     YLWEXASXRFSWLSLLAPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILSPFMPLLPI
+                     XFCLWVYX"
+     gene            1374..1838
+                     /gene="X"
+     CDS             1374..1838
+                     /gene="X"
+                     /codon_start=1
+                     /product="X protein"
+                     /protein_id="BAQ95575.1"
+                     /translation="MAARLCCQLDPARDVLCLRPVGAESRGRPLPGPLGALPPASPPV
+                     VPSDHGAHLSLRGLPVCAFSSXGPCALRFTSARRMETTVNAHRNLPKVLHKRTLGLSA
+                     MSTTDLEAYFKDCVFXEWEELGEEXRLKVFVLGGCRHKLVCSPAPCNFFTSA"
+     gene            1901..2452
+                     /gene="C"
+     CDS             1901..2452
+                     /gene="C"
+                     /codon_start=1
+                     /product="C protein"
+                     /protein_id="BAQ95576.1"
+                     /translation="MDIDPYKEFGASVELLSFLPXDFFPSIRDLLDTASALYREALES
+                     PEHCSPHHTALRQAILCWGELMNLATWVGSNLEDPASRELVVSYVNVNMGJKIRQLLW
+                     FHISCLTFGXXTVLEYLVSFGVWIRTPPAYRPXNAPILSTLPETTVVRRRGRSPRRRT
+                     PSPRRRRSQSPRRRRSQSRESQC"
+ORIGIN      
+        1 ctccaccact ttccaccaaa ctcttcaaga tcccagagtc agggccctgt actttcctgc
+       61 tggtggctcc agttcaggaa cagtgagccc tgctcagact actgtctctg ccatatcgtc
+      121 aatcttatcg aagactgggg accctgtacc gaacatggag aacatcgcat caggactcct
+      181 aggacccctg ctcgtgttac aggcggggtt tttcttgttg acaaaaatcc tcacaatacc
+      241 acagagtcta gactcgtggt ggacttctct caattttcta gggggaamac ccgtgtgtct
+      301 tggccaaaat tcgcagtccc aaatctccag tcactcacya acctgttgtc ctccaatttg
+      361 tcctggttat cgctggatgt gtctgcggcg ttttatcatc ttcctytgca tcctgctgct
+      421 atgcctcatc ttcttgttgg ttcttctgga ctatcraggt atgttgcccg tttgtcctcw
+      481 amttccagga tcawcaacaa ccagcaccgg accatgcaaa acctgcacga ctcctgctca
+      541 aggaacctct atryktccct catgttgctg tacaaaacct acggacggaa actgcacctg
+      601 tattcccatc ccatcatctt gggctttcgc aaaataccta tgggagtsgg cctcagyccg
+      661 tttctcttgg ctcagtttac tagcgccatt tgttcagtgg ttcgtagggc tttcccccac
+      721 tgtctggctt tcagttatat ggatgatgtg gtattggggg ccaagtctgt acaacatctt
+      781 gagtcccttt atgccgctgt taccaattty cttttgtctt tgggtataca yttgaaccct
+      841 cacaaaacaa aaagatgggg atattccctt aacttcatgg gatatgtaat tgggtgttgg
+      901 ggcacattgc cacaggaaca tattgtacaa aaaatcaaaa tgtgttttmg gaaacttcct
+      961 gtaaacagac ctattgattg gaaagtatgt caacgaattg tgggtctttt ggggtttgcc
+     1021 gcccctttca cgcaatgtgg atatcctgct ttratgcctt tatatgcatg tatacaagca
+     1081 aaacaggctt ttactttctc gccaacttac aaggcctttc taagtaaaca gtatctgaac
+     1141 ctttaccccg ttactcggca acggtctggt ctgtgccaag tgtttgctga cgcaaccccc
+     1201 actggttggg gcttggccat aggccwtcag cgcatgcgtg gaacctttgt gtctcctctg
+     1261 ccgatccata ctgcggaact cctagccgct tgttttgctc gcagcaggtc tggggcaaaa
+     1321 ctcatcggga ctgacaattc tgtcgtgctc tcccgcaagt atacatcgtt cccatggctg
+     1381 ctaggctgtg ctgccaactg gatcctgcgc gggacgtcct ttgtttacgt cccgtcggcg
+     1441 ctgaatcccg cggacgaccc ctcccggggc cgcttggggc tctaccgccc gcttctccgc
+     1501 ctgttgtacc gtccgaccac ggggcgcacc tctctttacg cggactcccc gtctgtgcct
+     1561 tctcatctrc cggaccgtgt gcacttcgct tcacctctgc acgtcgcatg gagaccaccg
+     1621 tgaacgccca ccggaacctg cccaaggtct tgcataagag gactcttgga ctttccgcaa
+     1681 tgtcaacgac cgaccttgag gcatacttca aagactgtgt gtttamtgag tgggaggagt
+     1741 tgggggagga gaktaggtta aaggtctttg tactaggagg ctgtaggcat aaattggtgt
+     1801 gttcaccagc accatgcaac tttttcacct ctgcctaatc atctcwtgtt catgtcctac
+     1861 tgttcaagcc tccaagctgt gccttgggtg gctttagggc atggacattg acccgtataa
+     1921 agaatttgga gcttctgtgg agttactctc ttttttgcct mmtgacttct ttccttctat
+     1981 tcgagatctc ctcgacaccg cctctgcttt gtatcgggag gccttagagt ctccggaaca
+     2041 ttgttcacct caccatacgg cactcaggca agctattctg tgttggggtg agttgatgaa
+     2101 tctagccacc tgggtgggaa gtaatttgga agatccagca tccagggaat tagtmgttag
+     2161 ctatgtcaac gttaatatgg gcmtaaaaat cagacaacta ttgtggtttc acatttcctg
+     2221 tcttactttt gggaragama ctgttcttga atatttggtg tcttttggag tgtggattcg
+     2281 cactcctcct gcatatagac caycaaatgc ccctatctta tcaacacttc cggaaactac
+     2341 tgttgttaga cgaagaggca ggtcccctag aagaagaact ccctcgcctc gcagacgaag
+     2401 gtctcaatcg ccgcgtcgca gaagatctca atctcgggaa tctcaatgtt agtattcctt
+     2461 ggacacataa ggtgggaaac tttacggggc tttattcttc tacggtacct tgctttaatc
+     2521 ctaawtggca aactccttct tttcctgaca ttcatttgca ggaggacatt gttgatagat
+     2581 gtaagcamtt tgtggggccc cttacagtaa atgaaaacag gagactaaaa ttaattatgc
+     2641 ctgctaggtt ttatcccaat gttaccaaat atttgccctt agataaaggg atcaaacctt
+     2701 attatccaga gcatgtagtt aatcattact tccagacgag acattattta cayactcttt
+     2761 ggaaggcggg tatcytatat aaaagagagt ccacacgtag cgcctcattt tgcggatcac
+     2821 catattcttg ggaacaagat ctacagcatg ggaggttggt cttccaaacc tcgaaaaggc
+     2881 atggggacaa atctttctgt ccccaatccc ctgggattct tcccmgatca tcagttggac
+     2941 cctgcattca aagccaactc asaaaatcca gattgggacc tcaacccgca caaggacaac
+     3001 tggccggacg ccaacaaggt gggagtggga gcattcgggc cagggttcat ccctccccat
+     3061 gggggactgt tggggtggar ccctcaggct cagggcatac tcacaactgt gccagcagct
+     3121 cctcctcctg cctccaccaa tcggcagtca ggaaggcagc ctactccctt atctccacct
+     3181 ctaagggaca ctcatcctca ggccatgcag tggaa
+//
+LOCUS       AB981582                3215 bp    DNA     circular VRL 24-MAR-2015
+DEFINITION  HBV genotype B DNA, complete genome, isolate: P2-121210.
+ACCESSION   AB981582
+VERSION     AB981582.1
+KEYWORDS    .
+SOURCE      HBV genotype B
+  ORGANISM  HBV genotype B
+            Viruses; Riboviria; Pararnavirae; Artverviricota; Revtraviricetes;
+            Blubervirales; Hepadnaviridae; Orthohepadnavirus.
+REFERENCE   1
+  AUTHORS   Kamitsukasa,H., Iri,M., Tanaka,A., Nagashima,S., Takahashi,M.,
+            Nishizawa,T. and Okamoto,H.
+  TITLE     Spontaneous reactivation of hepatitis B virus (HBV) infection in
+            patients with resolved or occult HBV infection
+  JOURNAL   J. Med. Virol. 87 (4), 589-600 (2015)
+   PUBMED   25612181
+  REMARK    DOI:10.1002/jmv.24115
+REFERENCE   2  (bases 1 to 3215)
+  AUTHORS   Okamoto,H. and Nishizawa,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-AUG-2014) Contact:Hiroaki Okamoto Jichi Medical
+            University School of Medicine, Division of Virology, Department of
+            Infection and Immunity; 3311-1 Yakushiji, Shimotsuke, Tochigi
+            329-0498, Japan
+FEATURES             Location/Qualifiers
+     source          1..3215
+                     /organism="HBV genotype B"
+                     /mol_type="genomic DNA"
+                     /isolate="P2-121210"
+                     /isolation_source="human serum isolated from a Japanese
+                     patient with reactivation from occult HBV infection."
+                     /host="Homo sapiens"
+                     /db_xref="taxon:489460"
+                     /country="Japan:Tokyo"
+                     /collection_date="2012-12-10"
+                     /note="genotype: B, subgenotype: B2"
+     gene            order(2307..3215,1..1623)
+                     /gene="P"
+     CDS             join(2307..3215,1..1623)
+                     /gene="P"
+                     /codon_start=1
+                     /product="polymerase"
+                     /protein_id="BAQ95573.1"
+                     /translation="MPLSYQHFRKLLLLDEEAGPLEEELPRLADEGLNRRVAXDLNLG
+                     NLNVSIPWTHKVGNFTGLYSSTVPCFNPXWQTPSFPDIHLQEDIVDRCKXFVGPLTVN
+                     ENRRLKLIMPARFYPNVTKYLPLDKGIKPYYPEHVVNHYFQTRHYLHTLWKAGILYKR
+                     ESTRSASFCGSPYSWEQDLQHGRLVFQTSKRHGDKSFCPQSPGILPRSSVGPCIQSQL
+                     XKSRLGPQPAQGQLAGRQQGGSGSIRARVHPSPWGTVGVEPSGSGHTHNCASSSSSCL
+                     HQSAVRKAAYSLISTSKGHSSSGHAVELHHFPPNSSRSQSQGPVLSCWWLQFRNSEPC
+                     SDYCLCHIVNLIEDWGPCTEHGEHRIRTPRTPARVTGGVFLVDKNPHNTTESRLVVDF
+                     SQFSRGXTRVSWPKFAVPNLQSLTNLLSSNLSWLSLDVSAAFYHLPLHPAAMPHLLVG
+                     SSGLSRYVARLSSXSRIXNNQHRTMQNLHDSCSRNLYXSLMLLYKTYGRKLHLYSHPI
+                     ILGFRKIPMGVGLSPFLLAQFTSAICSVVRRAFPHCLAFSYMDDVVLGAKSVQHLESL
+                     YAAVTNFLLSLGIHLNPHKTKRWGYSLNFMGYVIGCWGTLPQEHIVQKIKMCFRKLPV
+                     NRPIDWKVCQRIVGLLGFAAPFTQCGYPALMPLYACIQAKQAFTFSPTYKAFLSKQYL
+                     NLYPVTRQRSGLCQVFADATPTGWGLAIGHQRMRGTFVSPLPIHTAELLAACFARSRS
+                     GAKLIGTDNSVVLSRKYTSFPWLLGCAANWILRGTSFVYVPSALNPADDPSRGRLGLY
+                     RPLLRLLYRPTTGRTSLYADSPSVPSHLPDRVHFASPLHVAWRPP"
+     gene            order(2848..3215,1..835)
+                     /gene="preS1/preS2/S"
+     CDS             join(2848..3215,1..835)
+                     /gene="preS1/preS2/S"
+                     /codon_start=1
+                     /product="env protein"
+                     /protein_id="BAQ95574.1"
+                     /translation="MGGWSSKPRKGMGTNLSVPNPLGFFPDHQLDPAFKANSZNPDWD
+                     LNPHKDNWPDANKVGVGAFGPGFIPPHGGLLGWXPQAQGILTTVPAAPPPASTNRQSG
+                     RQPTPLSPPLRDTHPQAMQWNSTTFHQTLQDPRVRALYFPAGGSSSGTVSPAQTTVSA
+                     ISSILSKTGDPVPNMENIASGLLGPLLVLQAGFFLLTKILTIPQSLDSWWTSLNFLGG
+                     XPVCLGQNSQSQISSHSXTCCPPICPGYRWMCLRRFIIFLCILLLCLIFLLVLLDYXG
+                     MLPVCPXJPGSXTTSTGPCKTCTTPAQGTSXXPSCCCTKPTDGNCTCIPIPSSWAFAK
+                     YLWEXASXRFSWLSLLAPFVQWFVGLSPTVWLSVIWMMWYWGPSLYNILSPFMPLLPI
+                     XFCLWVYX"
+     gene            1374..1838
+                     /gene="X"
+     CDS             1374..1838
+                     /gene="X"
+                     /codon_start=1
+                     /product="X protein"
+                     /protein_id="BAQ95571.1"
+                     /translation="MAARLCCQLDPARDVLCLRPVGAESRGRPLPGPLGALPPASPPV
+                     VPSDHGAHLSLRGLPVCAFSSXGPCALRFTSARRMETTVNAHRNLPKVLHKRTLGLSA
+                     MSTTDLEAYFKDCVFXEWEELGEEXRLKVFVLGGCRHKLVCSPAPCNFFTSA"
+     gene            1901..2452
+                     /gene="C"
+     CDS             1901..2452
+                     /gene="C"
+                     /codon_start=1
+                     /product="C protein"
+                     /protein_id="BAQ95572.1"
+                     /translation="MDIDPYKEFGASVELLSFLPXDFFPSIRDLLDTASALYREALES
+                     PEHCSPHHTALRQAILCWGELMNLATWVGSNLEDPASRELVVSYVNVNMGJKIRQLLW
+                     FHISCLTFGXXTVLEYLVSFGVWIRTPPAYRPXNAPILSTLPETTVVRRRGRSPRRRT
+                     PSPRRRRSQSPRRXRSQSRESQC"
+ORIGIN      
+        1 ctccaccact ttccaccaaa ctcttcaaga tcccagagtc agggccctgt actttcctgc
+       61 tggtggctcc agttcaggaa cagtgagccc tgctcagact actgtctctg ccatatcgtc
+      121 aatcttatcg aagactgggg accctgtacc gaacatggag aacatcgcat caggactcct
+      181 aggacccctg ctcgtgttac aggcggggtt tttcttgttg acaaaaatcc tcacaatacc
+      241 acagagtcta gactcgtggt ggacttctct caattttcta gggggaamac ccgtgtgtct
+      301 tggccaaaat tcgcagtccc aaatctccag tcactcacya acctgttgtc ctccaatttg
+      361 tcctggttat cgctggatgt gtctgcggcg ttttatcatc ttcctytgca tcctgctgct
+      421 atgcctcatc ttcttgttgg ttcttctgga ctatcraggt atgttgcccg tttgtcctcw
+      481 amttccagga tcawcaacaa ccagcaccgg accatgcaaa acctgcacga ctcctgctca
+      541 aggaacctct atryktccct catgttgctg tacaaaacct acggacggaa actgcacctg
+      601 tattcccatc ccatcatctt gggctttcgc aaaataccta tgggagtsgg cctcagyccg
+      661 tttctcttgg ctcagtttac tagcgccatt tgttcagtgg ttcgtagggc tttcccccac
+      721 tgtctggctt tcagttatat ggatgatgtg gtattggggg ccaagtctgt acaacatctt
+      781 gagtcccttt atgccgctgt taccaattty cttttgtctt tgggtataca yttgaaccct
+      841 cacaaaacaa aaagatgggg atattccctt aacttcatgg gatatgtaat tgggtgttgg
+      901 ggcacattgc cacaggaaca tattgtacaa aaaatcaaaa tgtgttttmg gaaacttcct
+      961 gtaaacagac ctattgattg gaaagtatgt caacgaattg tgggtctttt ggggtttgcc
+     1021 gcccctttca cgcaatgtgg atatcctgct ttratgcctt tatatgcatg tatacaagca
+     1081 aaacaggctt ttactttctc gccaacttac aaggcctttc taagtaaaca gtatctgaac
+     1141 ctttaccccg ttactcggca acggtctggt ctgtgccaag tgtttgctga cgcaaccccc
+     1201 actggttggg gcttggccat aggccatcag cgcatgcgtg gaacctttgt gtctcctctg
+     1261 ccgatccata ctgcggaact cctagccgct tgttttgctc gcagcaggtc tggggcaaaa
+     1321 ctcatcggga ctgacaattc tgtcgtgctc tcccgcaagt atacatcgtt cccatggctg
+     1381 ctaggctgtg ctgccaactg gatcctgcgc gggacgtcct ttgtttacgt cccgtcggcg
+     1441 ctgaatcccg cggacgaccc ctcccggggc cgcttggggc tctaccgccc gcttctccgc
+     1501 ctgttgtacc gtccgaccac ggggcgcacc tctctttacg cggactcccc gtctgtgcct
+     1561 tctcatctrc cggaccgtgt gcacttcgct tcacctctgc acgtcgcatg gagaccaccg
+     1621 tgaacgccca ccggaacctg cccaaggtct tgcataagag gactcttgga ctttcmgcaa
+     1681 tgtcaacgac cgaccttgag gcatacttca aagactgtgt gtttamtgag tgggaggagt
+     1741 tgggggagga gaktaggtta aaggtctttg tactaggagg ctgtaggcat aaattggtgt
+     1801 gttcaccagc accatgcaac tttttcacct ctgcctaatc atctcwtgtt catgtcctac
+     1861 tgttcaagcc tccaagctgt gccttgggtg gctttagggc atggacattg acccgtataa
+     1921 agaatttgga gcttctgtgg agttactctc ttttttgcct mmtgacttct ttccttctat
+     1981 tcgagatctc ctcgacaccg cctctgcttt gtatcgggag gccttagagt ctccggaaca
+     2041 ttgttcacct caccatacgg cactcaggca agctattctg tgttggggtg agttgatgaa
+     2101 tctagccacc tgggtgggaa gtaatttgga agatccagca tccagggaat tagtmgttag
+     2161 ctatgtcaac gttaatatgg gcmtaaaaat cagacaacta ttgtggtttc acatttcctg
+     2221 tcttactttt gggaragama ctgttcttga atatttggtg tcttttggag tgtggattcg
+     2281 cactcctcct gcatatagac caycaaatgc ccctatctta tcaacacttc cggaaactac
+     2341 tgttgttaga cgaagaggca ggtcccctag aagaagaact ccctcgcctc gcagacgaag
+     2401 gtctcaatcg ccgcgtcgca raagatctca atctcgggaa tctcaatgtt agtattcctt
+     2461 ggacacataa ggtgggaaac tttacggggc tttattcttc tacggtacct tgctttaatc
+     2521 ctaawtggca aactccttct tttcctgaca ttcatttgca ggaggacatt gttgatagat
+     2581 gtaagcamtt tgtggggccc cttacagtaa atgaaaacag gagactaaaa ttaattatgc
+     2641 ctgctaggtt ttatcccaat gttaccaaat atttgccctt agataaaggg atcaaacctt
+     2701 attatccaga gcatgtagtt aatcattact tccagacgag acattattta cayactcttt
+     2761 ggaaggcggg tatcytatat aaaagagagt ccacacgtag cgcctcattt tgcggatcac
+     2821 catattcttg ggaacaagat ctacagcatg ggaggttggt cttccaaacc tcgaaaaggc
+     2881 atggggacaa atctttctgt ccccaatccc ctgggattct tcccmgatca tcagttggac
+     2941 cctgcattca aagccaactc asaaaatcca gattgggacc tcaacccgca caaggacaac
+     3001 tggccggacg ccaacaaggt gggagtggga gcattcgggc cagggttcat ccctccccat
+     3061 gggggactgt tggggtggar ccctcaggct cagggcatac tcacaactgt gccagcagct
+     3121 cctcctcctg cctccaccaa tcggcagtca ggaaggcagc ctactccctt atctccacct
+     3181 ctaagggaca ctcatcctca ggccatgcag tggaa
+//
