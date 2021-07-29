@@ -1,0 +1,1093 @@
+  67455 genotype:NA
+   7838 genotype:genotype: C
+   7367 genotype:genotype: D
+   5272 genotype:genotype: A
+   4368 genotype:genotype: B
+   2342 genotype:genotype: E
+   1178 genotype:genotype: A1
+    933 genotype:genotype: C1
+    861 genotype:genotype: B/C
+    788 genotype:genotype: F
+    747 genotype:genotype: D1
+    659 genotype:genotype B
+    587 genotype:genotype: A2
+    538 genotype:subtype: ayw2; genotype: D
+    532 genotype:subtype: adr; genotype: C
+    510 genotype:genotype C
+    466 genotype:genotype: D3
+    448 genotype:genotype E
+    405 genotype:genotype: D2
+    390 genotype:C
+    322 genotype:genotype A
+    316 genotype:subgenotype D1; genotype: D
+    310 genotype:genotype D
+    294 genotype:group: naive; genotype: D
+    290 genotype:subtype: ayw3; genotype: D
+    289 genotype:genotype: C2
+    274 genotype:subgenotype A1
+    253 genotype:B
+    248 genotype:subtype: ayw2; genotype: D1
+    247 genotype:genotype: F1b
+    246 genotype:genotype: G
+    243 genotype:genotype:genotype C1
+    243 genotype:subtype: C2; genotype: C
+    221 genotype:subtype: ayw2; genotype: D; PCR_primers=fwd_name: S6, rev_name: S7
+    217 genotype:genotype: H
+    214 genotype:genotype: B2
+    210 genotype:subtype: B4; genotype: B
+    196 genotype:subtype: D1; genotype: D
+    193 genotype:genotype: A3
+    191 genotype:subtype: adw; genotype: B
+    185 genotype:subtype: adw2; genotype: A
+    184 genotype:genotype: D4
+    180 genotype:Northwest1112genoC; genotype: C
+    176 genotype:genotype:E
+    160 genotype:genotype C2/Ce
+    148 genotype:subtype: adw2; genotype: A2
+    140 genotype:genotype: subgenotype A1
+    133 genotype:genotype: D; PCR_primers=fwd_name: HB1; PCR_primers=fwd_name: HB2
+    131 genotype:genotype: 2
+    122 genotype:subtype: CD1; genotype: C/D recombinant
+    113 genotype:subtype: A2; genotype: A
+    111 genotype:group: naive; genotype: C
+    103 genotype:subtype: Ce/C2; genotype: C
+    102 genotype:group: naive; genotype: A
+     99 genotype:subgenotype D7; genotype: D
+     99 genotype:subtype: adw4; genotype: F
+     98 genotype:subgenotype:A1; genotype: A
+     98 genotype:subtype: C1; genotype: C
+     96 genotype:collected in 2004-2010; genotype: D
+     96 genotype:subtype: ayw4; genotype: E
+     90 genotype:subtype: F1b; genotype: F
+     89 genotype:subtype: A1; genotype: A
+     89 genotype:subtype: F4; genotype: F
+     87 genotype:HBeAg negative; genotype: D
+     86 genotype:subgenotype B2
+     84 genotype:A
+     81 genotype:genotype: I
+     80 genotype:genotype:D
+     80 genotype:Northwest1112genoD; genotype: D
+     78 genotype:subgenotype D2; genotype: D
+     77 genotype:F
+     76 genotype:subtype: ayw; genotype: B
+     74 genotype:group: naive; genotype: B
+     73 genotype:subgenotype E; genotype: E
+     71 genotype:synonym: HBV; genotype: D
+     68 genotype:genotype: B3
+     66 genotype:D
+     65 genotype:subgenotype C1
+     62 genotype:genotype: C4
+     62 genotype:genotype: CD recombinant
+     62 genotype:subtype: D3; genotype: D
+     60 genotype:subtype: F1; genotype: F
+     59 genotype:subtype: B2; genotype: B
+     59 genotype:subtype: D2; genotype: D
+     57 genotype:genotype: B6
+     57 genotype:Northwest1112genoB; genotype: B
+     56 genotype:E
+     54 genotype:genotype: A8
+     52 genotype:subtype: adw2; genotype: B
+     51 genotype:genotype: D; subgenotype D1
+     51 genotype:subtype: A3; genotype: A
+     49 genotype:group: LAM-experienced; genotype: D
+     49 genotype:subgenotype C2
+     48 genotype:between 2017 and 2019; genotype: E
+     48 genotype:genotype:C
+     48 genotype:subtype: adrq+; genotype: C
+     47 genotype:genotype: F2
+     47 genotype:subgenotype:F4; genotype: F
+     47 genotype:subtype: ayw4; genotype: D4
+     47 genotype:subtype: C2/Ce; genotype: C
+     46 genotype:subtype: ayw3; genotype: D2
+     45 genotype:genotype: F4
+     44 genotype:subtype: adw4q-; genotype: F
+     43 genotype:genotype: F3
+     43 genotype:genotype G
+     43 genotype:subtype: adrq+; genotype: C1
+     42 genotype:genotype: QS-A3
+     40 genotype:subtype: adrq-; genotype: C
+     40 genotype:subtype: ayw2; genotype: D3
+     40 genotype:subtype: CD2; genotype: C/D recombinant
+     38 genotype:subgenotype Ae/A2
+     37 genotype:genotype C; isolated from the circulation of a Japanese patient with hepatocellular carcinoma
+     37 genotype:H
+     35 genotype:C1
+     35 genotype:collected between 2005 and 2007; subtype: D3; genotype: D
+     34 genotype:genotype: A/C/G recombinant
+     34 genotype:subgenotype B3, genotype B
+     33 genotype:genotype: HBV-E
+     32 genotype:collected in 2012-2013; genotype: D
+     32 genotype:genotype: D7
+     32 genotype:subgenotype A2; genotype: A
+     32 genotype:subtype: D4; genotype: D
+     31 genotype:genotype: C/D recombinant
+     31 genotype:genotype:genotype B4
+     31 genotype:subgenotype D3; genotype: D
+     30 genotype:Palestine; genotype: D1
+     29 genotype:subgenotype: D7; genotype: D
+     28 genotype:genotype:A
+     28 genotype:group: LAM/ADV-experienced; genotype: D
+     28 genotype:HBeAg positive; genotype: D
+     27 genotype:genotype:D1
+     27 genotype:genotype: F2a
+     27 genotype:subtype: adw2; genotype: A1
+     26 genotype:B2; genotype: B
+     26 genotype:Subgenotype A1
+     26 genotype:subtype: Ba/B2; genotype: B
+     26 genotype:type: genomic DNA; genotype: D3
+     24 genotype:collected between 2005 and 2007; subtype: D3/D6; genotype: D
+     24 genotype:genotype: A9
+     24 genotype:genotype: B4
+     24 genotype:genotype: F1
+     24 genotype:subgenotype=A2; subtype: adw2; genotype: A
+     24 genotype:subtype: A5; genotype: A
+     23 genotype:HBeAg positive; genotype: A
+     23 genotype:subgenotype D11
+     22 genotype:group: LAM-experienced; genotype: B
+     22 genotype:HBsAg positive HCC Case; genotype: A1
+     21 genotype:Genotype: A; Subgenotype: A2
+     21 genotype:genotype D, subtype ayw3
+     21 genotype:subtype: D5; genotype: D
+     20 genotype:C1; genotype: C
+     20 genotype:genotype: A (adw2)
+     20 genotype:subgenotype:F4; [virus wizard]; genotype: F
+     19 genotype:genotype: genotype: C
+     19 genotype:group: LAM/ADV-experienced; genotype: C
+     19 genotype:subgenotype C8
+     19 genotype:subgenotype D3; subtype: ayw2; genotype: D
+     19 genotype:subgroup: a1/adw2; genotype: a
+     18 genotype:B3; genotype: B
+     18 genotype:genotype: A; subgenotype: Aa
+     18 genotype:genotype: B1
+     18 genotype:genotype: C/D hybrid
+     18 genotype:group: LAM-experienced; genotype: C
+     18 genotype:subgenotype: Aa
+     18 genotype:subgroup: a1/ayw1; genotype: a
+     17 genotype:genotype: B/C mixture
+     17 genotype:genotype:genotype I1
+     17 genotype:group: LAM/ADV-experienced; genotype: A
+     17 genotype:group: LAM-experienced; genotype: A
+     17 genotype:subgenotype: A1; genotype: A
+     17 genotype:subtype: adrq+; genotype: C2
+     16 genotype:group: ADV-experienced; genotype: D
+     16 genotype:subtype: ayw; genotype: D
+     16 genotype:subtype: QS-A3; genotype: A
+     15 genotype:genotype: Aa
+     15 genotype:genotype: C5
+     15 genotype:genotype D; subgenotpe D10
+     15 genotype:group: ADV-experienced; genotype: C
+     15 genotype:subgenotype: B1
+     15 genotype:subgenotype: C2
+     15 genotype:subgenotype: D1; genotype: D
+     15 genotype:subtype: adw; genotype: C
+     14 genotype:antiHBcOnly; genotype: D
+     14 genotype:collected between 2005 and 2007; subtype: D2; genotype: D
+     14 genotype:genotype: A/G recombinant
+     14 genotype:genotype: C/D
+     14 genotype:genotype:genotype B
+     14 genotype:HBeAg+; genotype: C
+     14 genotype:subtype: adw2; genotype: C
+     14 genotype:subtype: B2/Ba; genotype: B
+     14 genotype:subtype: C3; genotype: C
+     13 genotype:genotype: adw2
+     13 genotype:HBeAg-; genotype: B
+     13 genotype:subgenotype A2
+     13 genotype:subgenotype:D3; genotype: D
+     12 genotype:chronic infection HBeAg (+); genotype: F
+     12 genotype:genotype: HBV/D4
+     12 genotype:HBV isolate from HIV coinfected patient; genotype: F3
+     12 genotype:subgenotype: A2; genotype: A
+     12 genotype:subgenotype C17
+     12 genotype:subgenotype C2, genotype C
+     12 genotype:subtype: adw; genotype: A
+     11 genotype:chronic; genotype: A1
+     11 genotype:drug-resistant strain; subtype: C2; genotype: C
+     11 genotype:genotype: Cs
+     11 genotype:genotype: D5
+     11 genotype:genotype: D/C
+     11 genotype:genotype:genotype B2
+     11 genotype:group: HBV/HIV; genotype: H
+     11 genotype:group: naive; genotype: F
+     11 genotype:group: non-LC/non-HCC; genotype: B
+     11 genotype:subtype: ayr; genotype: C1
+     11 genotype:type: genomic DNA; genotype: A1
+     10 genotype:genotype: A4
+     10 genotype:genotype:D3
+     10 genotype:genotype:U/C recombinant
+     10 genotype:group: naive; genotype: E
+     10 genotype:HBeAg+; genotype: B
+     10 genotype:HBeAg negative; genotype: A
+     10 genotype:subgroup: A'; genotype: A
+      9 genotype:acute; genotype: A1
+      9 genotype:genotype:A2
+      9 genotype:genotype A; subgenotpe A1
+      9 genotype:genotype: C (complex variant)
+      9 genotype:genotype F, cluster IV
+      9 genotype:genotype: Genotype A
+      9 genotype:group: HCC; genotype: C
+      9 genotype:group: LC; genotype: C
+      9 genotype:HBV isolate from HIV coinfected patient; genotype: F1b
+      9 genotype:isolated from serum of a chronic HBV carrier; genotype: B
+      9 genotype:subgenotype A3/E; genotype: A/E recombinant
+      9 genotype:subgenotype B7; genotype: B
+      9 genotype:subgenotype Cs/C1
+      9 genotype:subtype: ADR; genotype: C
+      9 genotype:subtype: C2; serogroup: Adrq+; genotype: C
+      9 genotype:variant 1; genotype: A1
+      9 genotype:variant 2; genotype: A1
+      8 genotype:from an HBsAg-positive chronic carrier; genotype: A
+      8 genotype:genotype: A5
+      8 genotype:genotype: D6
+      8 genotype:genotype: F2A
+      8 genotype:genotype: G/A recombinant
+      8 genotype:genotype:genotype C5
+      8 genotype:group: ADV-experienced; genotype: B
+      8 genotype:group: HBV/alone; genotype: H
+      8 genotype:group: LAM/ADV-experienced; genotype: B
+      8 genotype:HBV isolate from a Warao Amerindian; genotype: F3
+      8 genotype:isolated from East Asian carrier serum; genotype: C
+      8 genotype:subgenotype C5, genotype C
+      8 genotype:subtype: adw3; genotype: D
+      8 genotype:subtype: ayw1; genotype: B
+      8 genotype:subtype: ayw2; genotype: B
+      8 genotype:subtype: B6; genotype: B
+      7 genotype:G
+      7 genotype:genotype A, from liver, cccDNA
+      7 genotype:genotype:B
+      7 genotype:genotype: C3
+      7 genotype:genotype: F (subgenotype F2a)
+      7 genotype:genotype:genotype I2
+      7 genotype:genotype: HBV C/D hybrid
+      7 genotype:group: LAM/ADV-experienced; genotype: E
+      7 genotype:group: LC; genotype: B
+      7 genotype:group: non-LC/non-HCC; genotype: B/C
+      7 genotype:HBeAg (-); subtype: A2; genotype: A
+      7 genotype:HBsAg positive Non-HCC Control; genotype: A1
+      7 genotype:subgenotype D3
+      7 genotype:subtype: ADW2; genotype: B
+      7 genotype:subtype: ayw4; genotype: D
+      7 genotype:type: genomic DNA; genotype: D2
+      6 genotype:A1
+      6 genotype:A2
+      6 genotype:acute; genotype: A2
+      6 genotype:B2
+      6 genotype:chronic infection HBeAg (+); genotype: A
+      6 genotype:chronic infection HBeAg (-); genotype: F
+      6 genotype:collected 2005-2007; subtype: Ayw; genotype: D
+      6 genotype:collected between 2005 and 2007; subtype: D6; genotype: D
+      6 genotype:from a chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype: D
+      6 genotype:from the Pacific; subtype: adrq-; genotype: C
+      6 genotype:genotype B4/C2
+      6 genotype:genotype: D1; PCR_primers=fwd_name: B1, rev_name: B2
+      6 genotype:genotype:F1b
+      6 genotype:genotype:G
+      6 genotype:genotype:genotype C7
+      6 genotype:HBeAg-; genotype: C
+      6 genotype:Subgenotype A2
+      6 genotype:subgenotype A2, genotype A
+      6 genotype:subgenotype E; isolate showed evidence of having a mixed population of viruses but the complete sequence of the wild-type variant could not be obtained; genotype: E
+      6 genotype:subtype: adw; genotype: C5
+      6 genotype:subtype: ayw4; genotype: D1
+      6 genotype:subtype: F3; genotype: F
+      6 genotype:variant 3; genotype: A1
+      5 genotype:collected September 2009-September 2010; genotype: D
+      5 genotype:genotype: A7
+      5 genotype:genotype: A/A1
+      5 genotype:genotype: Ae/A2
+      5 genotype:Genotype: C; Subgenotype: C1
+      5 genotype:genotype C (subgenotype Ce)
+      5 genotype:genotype: DE
+      5 genotype:genotype D/E recombinant
+      5 genotype:genotype: not genotype A
+      5 genotype:group: ADV-experienced; genotype: A
+      5 genotype:group: HBV/HIV; genotype: A2
+      5 genotype:group: HBV/HIV; genotype: G
+      5 genotype:group: HCC; genotype: B/C
+      5 genotype:multiple drug-resistant strain; subtype: C2; genotype: C
+      5 genotype:Occult HBV infection in HIV naive patient; genotype: F2a
+      5 genotype:Palestine; genotype: D1; neutralization escape mutation
+      5 genotype:patient 9; genotype A
+      5 genotype:subgroup: A-A'; genotype: A
+      5 genotype:subtype: 1B; genotype: F
+      5 genotype:subtype: adw; genotype: C1
+      5 genotype:subtype: ayr; genotype: C
+      5 genotype:subtype: ayw1; genotype: D
+      5 genotype:subtype: ayw2; genotype: D2
+      5 genotype:subtype: ayw; genotype: A
+      4 genotype:B4
+      4 genotype:B5; genotype: B
+      4 genotype:CHB Kerman; genotype: D
+      4 genotype:chronic; genotype: A2
+      4 genotype:collected between 2005 and 2007; genotype: D
+      4 genotype:Complete genome; genotype A; subgenotype A2; isolated from a Japanese patient with acute hepatitis B.
+      4 genotype:D4
+      4 genotype:from an HBsAg-positive chronic carrier; genotype: D
+      4 genotype:genotype A (A3/Acmr)
+      4 genotype:genotype: A (subgenotype A1)
+      4 genotype:genotype: A; subgenotype: A2
+      4 genotype:genotype: B9
+      4 genotype:genotype B subtype ayw1
+      4 genotype:genotype: C7
+      4 genotype:genotype: Ce
+      4 genotype:genotype: D7/E recombinant
+      4 genotype:genotype: D/E recombinant
+      4 genotype:genotype: D, Subgenotype D1
+      4 genotype:genotype: D; subgenotype D3
+      4 genotype:genotype F
+      4 genotype:genotype: recombinant D-E
+      4 genotype:genotype:recombinants F4/G
+      4 genotype:genotype: subgenotype A2
+      4 genotype:genotype: subgenotype F4
+      4 genotype:group: HBV; genotype: H
+      4 genotype:group: HCC; genotype: B
+      4 genotype:group: non-LC/non-HCC; genotype: C
+      4 genotype:HBeAg(+); subtype: F1b; genotype: F
+      4 genotype:HBeAg (-); subtype: F4; genotype: F
+      4 genotype:HBV isolate from a Warao Amerindian, occult HBV infection; genotype: F3
+      4 genotype:inactive carrier HBeAg (-); genotype: D
+      4 genotype:inactive carrier HBeAg (-); genotype: F
+      4 genotype:isolated from carrier serum; genotype: F
+      4 genotype:isolated from chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype A
+      4 genotype:isolated from fulminant patient; genotype: c
+      4 genotype:isolated from serum of a chronic HBV carrier; genotype: D
+      4 genotype:isolated from the serum of HBsAg negative beta-thalassemic patient receiving multiple transfusions at the Sanjay Gandhi Postgraduate of Medical Sciences, Lucknow, India; subtype: ayw; genotype: D
+      4 genotype:subgenotype A3; genotype: A
+      4 genotype:subgenotype B9; genotype: B
+      4 genotype:subgenotype C4
+      4 genotype:subgenotype D2; subtype: ayw3; genotype: D
+      4 genotype:subgenotype: D3; genotype: D
+      4 genotype:Subgenotype D4/E
+      4 genotype:subgenotype D6; genotype: D
+      4 genotype:subtype: adrq+; genotype: C6
+      4 genotype:subtype: adw2; genotype: D
+      4 genotype:subtype: adw2; genotype: I
+      4 genotype:subtype: adw4; genotype: H
+      4 genotype:subtype: ayw1; genotype: A
+      4 genotype:subtype: ayw3; genotype: D3/6
+      4 genotype:subtype: ayw4; genotype: D7
+      3 genotype:acronym: HBV; genotype: B2
+      3 genotype:acronym: HBV; genotype: C1
+      3 genotype:acute; genotype: F
+      3 genotype:C5; genotype: C
+      3 genotype:chronic infection HBeAg (+); genotype: D
+      3 genotype:from a chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype: A
+      3 genotype:from an HBsAg-positive chronic carrier; genotype: C
+      3 genotype:from the Pacific; subtype: ayw2; genotype: D
+      3 genotype:genotype: A2/G recombinant
+      3 genotype:genotype: A2; PCR_primers=fwd_name: B1, rev_name: B2
+      3 genotype:genotype A (Ae)
+      3 genotype:genotype: A and D recombinant
+      3 genotype:genotype Ae
+      3 genotype:genotype: AE dual
+      3 genotype:genotype A; from French HBeAg+ patient
+      3 genotype:genotype: A/G
+      3 genotype:genotype A; subgenotype A2; isolated from a Japanese patient with acute hepatitis B.
+      3 genotype:genotype B2/C2
+      3 genotype:genotype: B5
+      3 genotype:genotype: Ba
+      3 genotype:genotype: C/D recombinant; naturally occurring combination between genotype C and D
+      3 genotype:genotype: C mixture
+      3 genotype:genotype: C; subtype: adrq+
+      3 genotype:genotype: D11
+      3 genotype:genotype: D3; PCR_primers=fwd_name: B1, rev_name: B2
+      3 genotype:genotype D; from French HBeAg- patient
+      3 genotype:genotype D; subgenotpe D2
+      3 genotype:genotype: D; subgenotype: D4
+      3 genotype:genotype: D, Subgenotype D5
+      3 genotype:genotype: recombinant
+      3 genotype:genotype: Recombinant
+      3 genotype:genotype: sub-A3
+      3 genotype:genotype: subgenotype F1b
+      3 genotype:genotype: type B
+      3 genotype:group: HCC; genotype: C/A/D
+      3 genotype:group: nonHCC; genotype: C
+      3 genotype:HBeAg (+); subtype: A2; genotype: A
+      3 genotype:HBeAg (-); subtype: D1; genotype: D
+      3 genotype:HBeAg (-); subtype: D3; genotype: D
+      3 genotype:HBeAg(+); subtype: F4; genotype: F
+      3 genotype:isolated from an HBeAg+ Vietnamese carrier; genotype: aberrant; recombinant
+      3 genotype:isolated from hepatocellular carcinoma; genotype: C
+      3 genotype:Palestine; genotype: A2
+      3 genotype:spontaneous acute exacerbation; chronic hepatitis; genotype: C
+      3 genotype:subgenotype: B2
+      3 genotype:subgenotype=B2; Belgium-China; subtype: adw2; genotype: B
+      3 genotype:subgenotype B7
+      3 genotype:subgenotype C1; genotype: C
+      3 genotype:subgenotype C6; genotype: C
+      3 genotype:subgenotype D1
+      3 genotype:subgenotype=D1; subtype: ayw2; genotype: D
+      3 genotype:subgenotype: D2; genotype: D
+      3 genotype:subgenotype=D2; subtype: ayw3; genotype: D
+      3 genotype:subgenotype D2-varB; genotype: D
+      3 genotype:subgenotype D5
+      3 genotype:subgenotype: F1b; genotype: F
+      3 genotype:subgenotype:F1b; genotype: F
+      3 genotype:subtype: adw2; genotype: Aa
+      3 genotype:subtype: ADW2; genotype: C
+      3 genotype:subtype: adw2; genotype: G
+      3 genotype:subtype: adw; genotype: C2
+      3 genotype:subtype: ayw1; genotype: A/G/C recombinant
+      3 genotype:subtype: ayw2; genotype: D4
+      3 genotype:subtype: ayw3; genotype: D3
+      3 genotype:subtype: ayw4; genotype: D2
+      3 genotype:subtype: C10; genotype: C
+      3 genotype:subtype: CD; genotype: CD_Recombinant
+      3 genotype:type: genomic DNA; genotype: A2
+      3 genotype:type: genomic DNA; genotype: C2
+      3 genotype:type: genomic DNA; genotype: D1
+      3 genotype:variant 4; genotype: A1
+      2 genotype:between 2017 and 2019; subtype: A1; genotype: A
+      2 genotype:C2; genotype: C
+      2 genotype:chronic; genotype: F
+      2 genotype:chronic infection HBeAg (-); genotype: A
+      2 genotype:chronic infection HBeAg (-); genotype: D
+      2 genotype:collected 2005-2007; subtype: Adr; genotype: C
+      2 genotype:collected 2007-2010; genotype: A
+      2 genotype:collected between 2005 and 2007; subtype: D1; genotype: D
+      2 genotype:D1; CHB Kerman; genotype: D
+      2 genotype:D2; genotype: D
+      2 genotype:D3
+      2 genotype:exacerbation after chemotherapy; genotype: B
+      2 genotype:exacerbation during interferon treatment; genotype: C
+      2 genotype:exacerbation post-transplant; genotype: B
+      2 genotype:F2
+      2 genotype:from a chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype: C
+      2 genotype:from a HBsAg-positive carrier; genotype: c
+      2 genotype:genotype: AD dual infection
+      2 genotype:genotype: A/D recombinant
+      2 genotype:genotype A; subgenotype A1; isolated from a Japanese patient with chronic HBV infection.
+      2 genotype:genotype A; subgenotype A2; isolated from a Japanese patient with chronic HBV infection.
+      2 genotype:genotype: B7
+      2 genotype:genotype B (subgenotype Ba)
+      2 genotype:genotype: C6
+      2 genotype:genotype: CD1
+      2 genotype:genotype: C/D_hybrid
+      2 genotype:genotype: CD Hybrid
+      2 genotype:genotype C; isolated from hepatocellular carcinoma patient
+      2 genotype:genotype: C; PCR_primers=fwd_name: SF6, rev_name: SE1
+      2 genotype:genotype C; subgenotype C2
+      2 genotype:genotype: D2; PCR_primers=fwd_name: B1, rev_name: B2
+      2 genotype:genotype: D3/6
+      2 genotype:genotype: D (ayw3)
+      2 genotype:genotype D (D1)
+      2 genotype:genotype: D-E
+      2 genotype:genotype: D/E
+      2 genotype:genotype D; from French HBeAg+ patient
+      2 genotype:genotype: D, sub-genotype: D1
+      2 genotype:genotype: D (subgenotype D3)
+      2 genotype:genotype: D, Subgenotype D3
+      2 genotype:genotype: f2a
+      2 genotype:genotype: F (adw4)
+      2 genotype:genotype: G (adw2)
+      2 genotype:genotype:genotype C
+      2 genotype:genotype: G/F1b recombinant
+      2 genotype:genotype: Hiroshima-C2
+      2 genotype:genotype: subgenotype F1a
+      2 genotype:genotype: type C
+      2 genotype:group: ADV-experienced; genotype: E
+      2 genotype:group: HCC; genotype: C/A
+      2 genotype:group: LC; genotype: B/C
+      2 genotype:group: naive; genotype: G
+      2 genotype:HBeAg (-); subtype: D2; genotype: D
+      2 genotype:HBeAg (+); subtype: F1; genotype: F
+      2 genotype:HBeAg(-); subtype: F4; genotype: F
+      2 genotype:HBsAg negative HCC Case; genotype: A1
+      2 genotype:HBsAg negative Non-HCC Control; genotype: A1
+      2 genotype:HBsAg positive HCC Case; genotype: A3
+      2 genotype:inactive carrier HBeAg (-); genotype: A
+      2 genotype:isolated from a HBsAg-positive carrier; genotype: c
+      2 genotype:isolated from male chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype D
+      2 genotype:isolated from renal transplant recipient with chronic HBeAg positive hepatitis B and development of liver cirrhosis; complex variant with deletions in C gene and core promoter; has truncated surface proteins; genotype: A
+      2 genotype:patient isolate; genotype: D
+      2 genotype:recombinant D/E; genotype: D/E
+      2 genotype:serogroup: Adw2; genotype: B
+      2 genotype:similar to viral subtype ADW4; amplified from acute liver failure patient who was negative for the serological markers of all known hepatitis viruses, HBsAg, IgM anti-HBc, IgM anti-HAV, IgM anti-HEV, and anti-HCV; genotype: A
+      2 genotype:similar to viral subtype ADW4; amplified from acute liver failure patient who was negative for the serological markers of all known hepatitis viruses, IgM anti-HBc, IgM anti-HAV, IgM anti-HEV, and anti-HCV, with the exception of HBsAg for which the patient was positive; genotype: A
+      2 genotype:subgenotype A1; genotype: A
+      2 genotype:sub-genotype: A3
+      2 genotype:subgenotype: A6; subtype: adw2; genotype: A
+      2 genotype:subgenotype: A8; subtype: adw2; genotype: A
+      2 genotype:subgenotype B8; genotype: B
+      2 genotype:subgenotype C2; genotype: C
+      2 genotype:subgenotype C3
+      2 genotype:subgenotype C7, genotype C
+      2 genotype:subgenotype: D12; subtype: ayw2; genotype: D
+      2 genotype:subgenotype D2; subtype: ayw4; genotype: D
+      2 genotype:subgenotype D2-varA; genotype: D
+      2 genotype:subgenotype D3; subtype: adw2; genotype: D
+      2 genotype:subgenotype D4; genotype: D
+      2 genotype:subgenotype: F4; genotype: F
+      2 genotype:subgenotype I1
+      2 genotype:subgroup: d/ayw3; genotype: d
+      2 genotype:subtype: A4; genotype: A
+      2 genotype:subtype: adrq_indeterminate; genotype: C6
+      2 genotype:subtype: Ae; genotype: A
+      2 genotype:subtype: ayr; genotype: B
+      2 genotype:subtype: ayr; genotype: D
+      2 genotype:subtype: ayw2/3; genotype: D2
+      2 genotype:subtype: ayw2/4; genotype: D1
+      2 genotype:subtype: ayw3; genotype: D1
+      2 genotype:subtype: ayw4; genotype: D3
+      2 genotype:subtype: ayw4; genotype: D3/6
+      2 genotype:subtype: B2; serogroup: Adw1; genotype: B
+      2 genotype:subtype: B3; genotype: B
+      2 genotype:subtype: C5; genotype: C
+      2 genotype:[virus wizard]; genotype: D1
+      1 genotype:14years, male patient with chornic hepatitis; genotype D (D2)
+      1 genotype:33 years male patient with chronic hepatitis and high ALT, AST levels; genotype D (D1); variant HBV strain, with deletion mutations in Pre-C and insertion in Core region
+      1 genotype:41-nucleotide insertion in C gene; genotype: C/D recombinant; naturally occurring combination between genotype C and D
+      1 genotype:46 years, male patient with chronic hepatitis; genotype D (D2)
+      1 genotype:A 12-nt deletion in the preS2 region; An inter-genotypic recombinant of genotypes C and B
+      1 genotype:A3
+      1 genotype:alternately spliced genome; subtype: adw2; genotype: B
+      1 genotype:amplified from outbrek-associated case of acute hepatitis; genotype: D
+      1 genotype:Ancient DNA (aDNA); radiocarbon date of sample 1578 [1518-1638]; genotype: D3
+      1 genotype:A new genotype (J) of Hepatitis B Virus, suspected of Borneo origin
+      1 genotype:An inter-genotypic recombinant of genotypes C and G; Two deletions of 3 nt and 48 nt in the 5'-terminus of the P gene
+      1 genotype:antiHBcOnly; genotype: A
+      1 genotype:antiHBcOnly; genotype: C
+      1 genotype:antiHBs+; genotype: A
+      1 genotype:antiHBs+; genotype: D
+      1 genotype:B241_D5; genotype: B
+      1 genotype:B254_D5; genotype: C
+      1 genotype:B4; genotype: B
+      1 genotype:chronic; genotype: D
+      1 genotype:chronic; genotype: E
+      1 genotype:closely related to genotypes F and H
+      1 genotype:co-infection code 10; genotype: B2
+      1 genotype:co-infection code 11; genotype: C1
+      1 genotype:co-infection code 12; genotype: C1
+      1 genotype:co-infection code 13; genotype: C1
+      1 genotype:co-infection code 14; genotype: C1
+      1 genotype:co-infection code 15; genotype: C1
+      1 genotype:co-infection code 16; genotype: B2
+      1 genotype:co-infection code 17; genotype: C1
+      1 genotype:co-infection code 18; genotype: C1
+      1 genotype:co-infection code 19; genotype: C1
+      1 genotype:co-infection code 1; genotype: C1
+      1 genotype:co-infection code 20; genotype: C1
+      1 genotype:co-infection code 21; genotype: C1
+      1 genotype:co-infection code 22; genotype: C1
+      1 genotype:co-infection code 23; genotype: C1
+      1 genotype:co-infection code 24; genotype: C1
+      1 genotype:co-infection code 2; genotype: B2
+      1 genotype:co-infection code 3; genotype: C1
+      1 genotype:co-infection code 4; genotype: C1
+      1 genotype:co-infection code 5; genotype: B2
+      1 genotype:co-infection code 6; genotype: C1
+      1 genotype:co-infection code 7; genotype: G/C1
+      1 genotype:co-infection code 8; genotype: B2
+      1 genotype:co-infection code 9; genotype: C1
+      1 genotype:collected 2005-2007; subtype: Adw; genotype: F
+      1 genotype:collected 2005-2007; subtype: Ayw; genotype: E
+      1 genotype:collected 2007-2010; genotype: B
+      1 genotype:collected between 2005 and 2007; subtype: A1; genotype: A
+      1 genotype:collected between 2005 and 2007; subtype: D4; genotype: D
+      1 genotype:collected between 2005 and 2007; subtype: F2; genotype: F
+      1 genotype:collected July 2009 - March 2010; genotype: D
+      1 genotype:Complete genome; genotype B; subgenotype B1; G1896A mutation; isolated from a Japanese patient with HBV reactivation.; genotype B; subgenotype B1
+      1 genotype:Complete genome with an 8-nt deletion after nt 1762; genotype A; subgenotype A2; isolated from a Japanese patient with chronic HBV infection.
+      1 genotype:complex variant with 90-nt deletion in C gene, 6-nt deletion in preS2, 11-nt insertion in core promoter and truncated surface proteins. No expression of X protein due to X gene start codon mutation; genotype: A
+      1 genotype:complex variant with 90-nt deletion in C gene, 6-nt deletion in preS2, 11-nt insertion in core promoter/X gene, and truncated X protein; genotype: A
+      1 genotype:complex variant with 90-nt deletion in C gene, 6-nt deletion in preS2 and truncated LHBs, precore and core proteins; genotype: A
+      1 genotype:complex variant with 90-nt deletion in C gene, 6-nt deletion in preS2 and truncated surface proteins; genotype: A
+      1 genotype:Congo; genotype: A
+      1 genotype:contains nonfunctional fusion C/P/S gene due to deletion; genotype: C
+      1 genotype:deletion mutant; genotype: DE
+      1 genotype:deletion mutant; genotype: E
+      1 genotype:entacavir-resistant strain (rtL180M+rtM204V+rtT184L) selected 128 weeks after entecavir monotherapy; genotype: C
+      1 genotype:entecavir-resistant strain; strains selected after 128 weeks of entecavir therapy; subtype: adw2; genotype: C
+      1 genotype:Eurohep reference R1 (genotype A2); HBV Int. Standard
+      1 genotype:exacerbation after lamivudine treatment; genotype: B
+      1 genotype:exacerbation during interferon treatment; genotype: B
+      1 genotype:exacerbation post-transplant; genotype: C
+      1 genotype:F4
+      1 genotype:from a 6 year old patient of chronic HBV infection, with HBeAg positive; subtype: ayw; genotype: d
+      1 genotype:from a chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype: E
+      1 genotype:from Chinese patient; genotype: C
+      1 genotype:from HBsAg-positive human serum; genotype: A' (A40)
+      1 genotype:from HBsAg positve human serum; genotype: B
+      1 genotype:genome harboring entecavir-resistant mutations; genotype: C
+      1 genotype:genotype: 4
+      1 genotype:genotype: A1/F1b recombinant
+      1 genotype:genotype: a2
+      1 genotype:genotype: A2/F1b recombinant
+      1 genotype:genotype: A2; PCR_primers=fwd_name: HB1; PCR_primers=fwd_name: HB2
+      1 genotype:genotype: A3; PCR_primers=fwd_name: B1, rev_name: B2
+      1 genotype:genotype A (A3/Acmr) contain recombination with genotype E
+      1 genotype:genotype: A/D
+      1 genotype:genotype: ADC
+      1 genotype:genotype: AE
+      1 genotype:genotype: A/E recombinant
+      1 genotype:genotype A; isolated from the circulation of a Japanese patient with hepatocellular carcinoma
+      1 genotype:genotype A, mutant
+      1 genotype:genotype A; subgenotpe A/D recombinant
+      1 genotype:genotype A; subgenotype A1
+      1 genotype:genotype A; subgenotype A1; isolated from a Japanese patient with acute hepatitis B.
+      1 genotype:genotype A; subgenotype A2
+      1 genotype:genotype A, wild
+      1 genotype:genotype: B8
+      1 genotype:genotype: B and C mixture
+      1 genotype:genotype: BC
+      1 genotype:genotype: B/C recombinant
+      1 genotype:genotype B; from Chinese HBeAg+ patient
+      1 genotype:genotype B; isolated from the circulation of a Japanese patient with hepatocellular carcinoma
+      1 genotype:genotype B; Japanese patient, BTH case 2, serum 1: before lamivudine
+      1 genotype:genotype B; Japanese patient, BTH case 2, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype B; Japanese patient, BTH case 2, serum 3: after lamivudine, peak of ALT
+      1 genotype:genotype B, mutant
+      1 genotype:genotype: B; PCR_primers=fwd_name: HB1; PCR_primers=fwd_name: HB2
+      1 genotype:genotype : B; subgenotype: B1; preC mutant with G1896A
+      1 genotype:genotype: B; subgenotype: B1; preC mutant with G1896A
+      1 genotype:Genotype B / Subgenotype B4
+      1 genotype:genotype: B; subtype: adw2
+      1 genotype:genotype B subtype ayw1+ayr
+      1 genotype:genotype B, wild
+      1 genotype:genotype: c
+      1 genotype:genotype: C1/B2
+      1 genotype:genotype: C1/G
+      1 genotype:genotype: C4; PCR_primers=fwd_name: B1, rev_name: B2
+      1 genotype:genotype: C/D recombinant; naturally occuring recombination between genotype C and D
+      1 genotype:genotype C; from Chinese HBeAg+ patient
+      1 genotype:genotype C / genotype D recombinant
+      1 genotype:genotype: C/G recombinant
+      1 genotype:genotype C; Japanese patient, BTH case 1, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, BTH case 1, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype C; Japanese patient, BTH case 1, serum 3: after lamivudine, peak of ALT
+      1 genotype:genotype C; Japanese patient, BTH case 3, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, BTH case 3, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype C; Japanese patient, BTH case 3, serum 3: after lamivudine, peak of ALT
+      1 genotype:genotype C; Japanese patient, BTH case 4, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, BTH case 4, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype C; Japanese patient, BTH case 4, serum 3: after lamivudine, peak of ALT
+      1 genotype:genotype C; Japanese patient, BTH case 5, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, BTH case 5, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype C; Japanese patient, BTH case 5, serum 3: after lamivudine, peak of ALT
+      1 genotype:genotype C; Japanese patient, BTH case 6, serum 1: before lamivudine, 18 bases deletion (nt2848-2865) in preS1
+      1 genotype:genotype C; Japanese patient, BTH case 6, serum 2: after lamivudine, 45 bases deletion (nt11-55) in preS2
+      1 genotype:genotype C; Japanese patient, BTH case 7, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, BTH case 7, serum 2: after lamivudine, peak of HBV-DNA, 24 bases deletion (nt2850-2873) in pre-S1
+      1 genotype:genotype C;Japanese patient,BTH case8,serum1:before lamivudine
+      1 genotype:genotype C;Japanese patient,BTH case 8,serum 2:after lamivudine,peak of HBV-DNA, 24 bases deletion (nt 34-57) in pre-S1
+      1 genotype:genotype C; Japanese patient, non-BTH case 10, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, non-BTH case 10, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype C; Japanese patient, non-BTH case 10, serum 3: after lamivudine, 3 months after serum 2
+      1 genotype:genotype C; Japanese patient, non-BTH case 8, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, non-BTH case 8, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype C; Japanese patient, non-BTH case 8, serum 3: after lamivudine, 3 months after serum 2
+      1 genotype:genotype C; Japanese patient, non-BTH case 9, serum 1: before lamivudine
+      1 genotype:genotype C; Japanese patient, non-BTH case 9, serum 2: after lamivudine, peak of HBV-DNA
+      1 genotype:genotype C; Japanese patient, non-BTH case 9, serum 3: after lamivudine, 3 months after serum 2
+      1 genotype:genotype: C; lamivudine resistance with intact YMDD motif
+      1 genotype:genotype: C; mother, case 2
+      1 genotype:genotype C, mutant
+      1 genotype:genotype: C; PCR_primers=fwd_name: HB1; PCR_primers=fwd_name: HB2
+      1 genotype:genotype C (subgenotype C2)
+      1 genotype:Genotype C / Subgenotype C2
+      1 genotype:genotype C; subgenotype C2; isolated from a Japanese patient with acute hepatitis B.
+      1 genotype:genotype C; subgenotype C2; isolated from a Japanese patient with de novo hepatitis B.
+      1 genotype:Genotype C / Subgenotype C2, isolated in a chimpanzee inoculated with HBV
+      1 genotype:genotype C subtype adr
+      1 genotype:genotype: C; subtype: adr; This strain is Hepatitis B virus (HBV) produced by successive stocks of the HBV plasmid which was made from the gene arrangement of the adr4 subtype (Genbank accession number X01587).
+      1 genotype:genotype C, wild
+      1 genotype:genotype C, with deletion in Pre-S2
+      1 genotype:genotype: D1I
+      1 genotype:genotype: D1M
+      1 genotype:genotype: D3/A2
+      1 genotype:genotype: D3/D6
+      1 genotype:genotype: D3/F1b recombinant
+      1 genotype:genotype: DA
+      1 genotype:genotype: D/C recombination
+      1 genotype:genotype D, Japanese patient from Kanto
+      1 genotype:genotype D, Japanese patient from Tokyo
+      1 genotype:genotype D, Japanese patient from Toshima
+      1 genotype:genotype D, Japanese patient with Gianotti Disease
+      1 genotype:genotype D, Japanese patient with Gianotti disease from Kanto
+      1 genotype:genotype: D; mother, case 1
+      1 genotype:genotype D, mutant
+      1 genotype:genotype: D; not vaccinated infant, case 1
+      1 genotype:genotype D; subgenotpe D/A/E recombinant
+      1 genotype:genotype: D; subgenotype: D1
+      1 genotype:genotype: D, Subgenotype D2
+      1 genotype:genotype: D, sub-genotype: D3
+      1 genotype:genotype: D (subgenotype D4)
+      1 genotype:genotype D, wild
+      1 genotype:genotype:F4
+      1 genotype:genotype: F4/D2 recombinant
+      1 genotype:genotype: G/A
+      1 genotype:genotype: G/A (adw2)
+      1 genotype:genotype: G/C
+      1 genotype:genotype: G/C/A recombinant
+      1 genotype:genotype: G/C recombinant
+      1 genotype:genotype: G/D
+      1 genotype:genotype=genotype B
+      1 genotype:genotype:genotype B/C1
+      1 genotype:genotype:genotype B/I1
+      1 genotype:genotype H
+      1 genotype:genotype: Hiroshima-A2
+      1 genotype:genotype: Hiroshima-D
+      1 genotype:genotype: I1
+      1 genotype:genotype: I/C
+      1 genotype:genotype: mixC,A
+      1 genotype:genotype: mixed A/F infection
+      1 genotype:genotype: mixed A/G, A consensus
+      1 genotype:genotype: mixed A/G, G consensus
+      1 genotype:genotype: NA
+      1 genotype:genotype: Non-A
+      1 genotype:genotype: recombinant D3/A2
+      1 genotype:genotype: recombinant E-D
+      1 genotype:genotype:recombinants F1b/G
+      1 genotype:genotype:recombinants F/G
+      1 genotype:genotype: subgenotype D3
+      1 genotype:genotype: subgenotype F3
+      1 genotype:genotype: unknown; most closely related to genotype E
+      1 genotype:genotype: [virus wizard]
+      1 genotype:group: HBV; genotype: A2
+      1 genotype:group: HCC; genotype: C/A/B
+      1 genotype:group: LAM-experienced; genotype: E
+      1 genotype:group: LAM-experienced; genotype: H
+      1 genotype:group: LC; genotype: A
+      1 genotype:group: LC; genotype: C/A
+      1 genotype:group: naive; genotype: H
+      1 genotype:group: non-LC/non-HCC; genotype: C/A
+      1 genotype:group: non-LC/non-HCC; genotype: C/B
+      1 genotype:HBeAg(-); genotype: D
+      1 genotype:HBeAg(+); genotype: D
+      1 genotype:HBeAg negative; genotype: C
+      1 genotype:HBeAg (-); subtype: 44; genotype: D
+      1 genotype:HBeAg (-); subtype: A1; genotype: A
+      1 genotype:HBeAg(-); subtype: F1b; genotype: F
+      1 genotype:HBeAg (-); subtype: F1; genotype: F
+      1 genotype:HBeAg (+); subtype: F4; genotype: F
+      1 genotype:HBsAg positive HCC Case; genotype: A2
+      1 genotype:HBV, genotype A
+      1 genotype:HBV genotype B
+      1 genotype:HBV genotype C
+      1 genotype:HBV, genotype C
+      1 genotype:HBV genotype D
+      1 genotype:HBV genotype E
+      1 genotype:HBV, genotype E
+      1 genotype:HBV genotype F
+      1 genotype:HBV, genotype F
+      1 genotype:HBV genotype G
+      1 genotype:HBV isolate from a Warao Amerindian HIV positive, occult HBV infection; genotype: F3
+      1 genotype:HBV isolate from HIV and HCV coinfected patient; genotype: F1b
+      1 genotype:HBV isolate from HIV coinfected patient; genotype: A2
+      1 genotype:HBV isolate from HIV coinfected patient; genotype: D
+      1 genotype:HBV isolate from HIV coinfected patient; genotype: D4
+      1 genotype:HBV isolate from HIV coinfected patient; genotype: F2
+      1 genotype:HBV isolate from HIV coinfected patient; genotype: F2a
+      1 genotype:HBV isolate from HIV patient; genotype: G
+      1 genotype:HIV-HBV coinfection; genotype: B2
+      1 genotype:HIV-HBV coinfection; genotype: C1
+      1 genotype:identical sequence found in clones f300-2 and f300-4; genotype: B/C
+      1 genotype:isolated from 26 year old male chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype D
+      1 genotype:isolated from 58 year old female chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype D
+      1 genotype:isolated from anti-HBs positive serum of an asymptomatic black adult male; genotype: A/D recombinant
+      1 genotype:isolated from anti-HBs positive serum of an asymptomatic black male; genotype: A/D recombinant
+      1 genotype:isolated from chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype D
+      1 genotype:isolated from female patient with chronic hepatitis; genotype: C; subgenotype C9
+      1 genotype:isolated from fulminant patient; genotype: b
+      1 genotype:isolated from HBsAg-postive human serum; genotype: A' (A20)
+      1 genotype:isolated from Korean patient #11 with chronic HBV; subtype: adr; genotype: C
+      1 genotype:isolated from male chronic carrier with anti-HBc as the only serological marker of HBV infection; genotype A
+      1 genotype:isolated from male patient with hepatocellular carcinoma; genotype: C; subgenotype C9
+      1 genotype:isolated from patient na0204; ayw subtype; genotype: d
+      1 genotype:isolated from patient prior to treatment with lamivudine; genotype: B
+      1 genotype:isolated from patient serum; genotype: B
+      1 genotype:isolated from patient treated with lamivudine; genotype: B
+      1 genotype:isolated from renal transplant recipient with chronic HBeAg positive hepatitis B and development of liver cirrhosis; genotype: A
+      1 genotype:isolated from serum; genotype: C
+      1 genotype:isolated from serum of a fulminant patient; genotype: C
+      1 genotype:isolated from the serum of HBsAg positive beta-thalassemic patient receiving multiple transfusions at the Sanjay Gandhi Postgraduate of Medical Sciences, Lucknow, India; subtype: ayw; genotype: D
+      1 genotype:Khab B 10KH; subtype: D2; genotype: D
+      1 genotype:Khab B 1KH; subtype: D3; genotype: D
+      1 genotype:Khab B 1T; genotype: D
+      1 genotype:Khab B 2KH; subtype: D3; genotype: D
+      1 genotype:Khab B 2T; subtype: D2; genotype: D
+      1 genotype:Khab B 3KH; genotype: A
+      1 genotype:Khab B 3T; subtype: D2; genotype: D
+      1 genotype:Khab B 4KH; genotype: C
+      1 genotype:Khab B 4T; subtype: D3; genotype: D
+      1 genotype:Khab B 5KH; subtype: D2; genotype: D
+      1 genotype:Khab B 5T; subtype: D2; genotype: D
+      1 genotype:Khab B 6KH; subtype: D3; genotype: D
+      1 genotype:Khab B 6T; subtype: D2; genotype: D
+      1 genotype:Khab B 7KH; genotype: D
+      1 genotype:Khab B 7T; subtype: D3; genotype: D
+      1 genotype:Khab B 8KH; genotype: D
+      1 genotype:Khab B 8T; genotype: D
+      1 genotype:Khab B 9KH; subtype: D2; genotype: D
+      1 genotype:lamivudine-resistant YVDD mutant; genotype: C
+      1 genotype:mono-infection code 10; genotype: C1
+      1 genotype:mono-infection code 11; genotype: C1
+      1 genotype:mono-infection code 12; genotype: C1
+      1 genotype:mono-infection code 13; genotype: B2
+      1 genotype:mono-infection code 14; genotype: B2
+      1 genotype:mono-infection code 15; genotype: C1
+      1 genotype:mono-infection code 16; genotype: C1
+      1 genotype:mono-infection code 17; genotype: C1
+      1 genotype:mono-infection code 18; genotype: C1
+      1 genotype:mono-infection code 19; genotype: B2
+      1 genotype:mono-infection code 1; genotype: B2
+      1 genotype:mono-infection code 20; genotype: C1
+      1 genotype:mono-infection code 21; genotype: B2
+      1 genotype:mono-infection code 22; genotype: C1
+      1 genotype:mono-infection code 23; genotype: B2
+      1 genotype:mono-infection code 24; genotype: C1
+      1 genotype:mono-infection code 25; genotype: C1
+      1 genotype:mono-infection code 26; genotype: C1
+      1 genotype:mono-infection code 27; genotype: C1
+      1 genotype:mono-infection code 28; genotype: C1
+      1 genotype:mono-infection code 29; genotype: C1
+      1 genotype:mono-infection code 2; genotype: C1
+      1 genotype:mono-infection code 30; genotype: C1
+      1 genotype:mono-infection code 31; genotype: B2
+      1 genotype:mono-infection code 3; genotype: C1
+      1 genotype:mono-infection code 4; genotype: C1
+      1 genotype:mono-infection code 5; genotype: C1
+      1 genotype:mono-infection code 6; genotype: C1
+      1 genotype:mono-infection code 7; genotype: C1
+      1 genotype:mono-infection code 8; genotype: C1
+      1 genotype:mono-infection code 9; genotype: C1
+      1 genotype:non-reactive with Innogenetics (Ghent, Belgium) HBV reverse line probe hybridization assay; genotype: C
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in August 1996; serum sample was collected from a chronic carrier of hepatitis B virus; the patient had normal levels of SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in August, 1998; serum sample was collected from a chronic HBV carrier; the patient had normal levels of SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in August,1998; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in February, 1997; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in July, 1998; serum sample was collected from a chronic HBV carrier; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in June 1996; serum sample was collected from a chronic carrier of hepatitis B virus; the patient had normal levels of SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in June, 1997; serum sample was collected from a case of acute hepatitis; the patient had elevated levels of SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in March, 1997; serum sample was collected from a chronic HBV carrier; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in May,1997; serum sample was collected from a chronic HBV carrier; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria in September, 1998; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on April 11, 1997; serum sample was collected from a patient with acute hepatitis; the patient had elevated levels of SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on August 27th 1998; serum sample was collected from a patient with acute hepatitis; the patient had a very high level of HbsAg, SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on August 31, 1998; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on August 6, 1997; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on February 20, 1997; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on January 22, 1997; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on June 25, 1998; serum sample was collected from a case of acute hepatitis; the patient had elevated levels of SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on March 25, 1997; serum sample was collected from a case of acute hepatitis; the patient had elevated levels of SGOT and SGPT; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on May 20, 1996; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:obtained at the University College Hospital, Ibadan, Nigeria on May 2, 1998; serum sample was collected from a patient with acute hepatitis; genotype: E
+      1 genotype:Occult HBV infection in HIV naive patient; genotype: C1
+      1 genotype:Occult HBV infection in HIV naive patient; genotype: F2
+      1 genotype:Occult HBV infection in HIV naive patient; genotype: F3
+      1 genotype:Palestine; genotype: D3
+      1 genotype:patient 1 samples collected in 1990 and 1991; genotype D
+      1 genotype:patient 3 samples collected in 1990 and 1991; genotype D
+      1 genotype:patient 5 samples collected in 1988 and 1995; genotype A
+      1 genotype:patient 7 samples collected in 1988 and 1991; genotype F
+      1 genotype:REP 102 study, patient 10, time point 1; genotype: C
+      1 genotype:REP 102 study, patient 10, time point 2; genotype: C
+      1 genotype:REP 102 study, patient 10, time point 3; genotype: C
+      1 genotype:REP 102 study, patient 11, time point 1; genotype: C
+      1 genotype:REP 102 study, patient 11, time point 2; genotype: C
+      1 genotype:REP 102 study, patient 11, time point 3; genotype: C
+      1 genotype:REP 102 study, patient 12, time point 1; genotype: C
+      1 genotype:REP 102 study, patient 12, time point 2; genotype: C
+      1 genotype:REP 102 study, patient 12, time point 3; genotype: C
+      1 genotype:REP 102 study, patient 1, time point 1; genotype: C
+      1 genotype:REP 102 study, patient 1, time point 2; genotype: C
+      1 genotype:REP 102 study, patient 1, time point 3; genotype: C
+      1 genotype:REP 102 study, patient 2, time point 1; genotype: D
+      1 genotype:REP 102 study, patient 2, time point 2; genotype: D
+      1 genotype:REP 102 study, patient 2, time point 3; genotype: D
+      1 genotype:REP 102 study, patient 3, time point 1; genotype: C
+      1 genotype:REP 102 study, patient 3, time point 2; genotype: C
+      1 genotype:REP 102 study, patient 3, time point 3; genotype: C
+      1 genotype:REP 102 study, patient 4, time point 1; genotype: A
+      1 genotype:REP 102 study, patient 4, time point 2; genotype: A
+      1 genotype:REP 102 study, patient 4, time point 3; genotype: A
+      1 genotype:REP 102 study, patient 5, time point 1; genotype: D
+      1 genotype:REP 102 study, patient 5, time point 2; genotype: D
+      1 genotype:REP 102 study, patient 5, time point 3; genotype: D
+      1 genotype:REP 102 study, patient 6, time point 1; genotype: C
+      1 genotype:REP 102 study, patient 6, time point 2; genotype: C
+      1 genotype:REP 102 study, patient 6, time point 3; genotype: C
+      1 genotype:REP 102 study, patient 7, time point 1; genotype: C
+      1 genotype:REP 102 study, patient 7, time point 2; genotype: C
+      1 genotype:REP 102 study, patient 7, time point 3; genotype: C
+      1 genotype:REP 102 study, patient 8, time point 1; genotype: D
+      1 genotype:REP 102 study, patient 8, time point 2; genotype: D
+      1 genotype:REP 102 study, patient 8, time point 3; genotype: D
+      1 genotype:REP 102 study, patient 9, time point 1; genotype: D
+      1 genotype:REP 102 study, patient 9, time point 2; genotype: D
+      1 genotype:REP 102 study, patient 9, time point 3; genotype: D
+      1 genotype:sample 1027419; genotype: C
+      1 genotype:sample 1029487; genotype: C
+      1 genotype:sample 1031845; genotype: B
+      1 genotype:sample 10638; genotype: B
+      1 genotype:sample 1071979; genotype: B
+      1 genotype:sample 1085332; genotype: B
+      1 genotype:sample 1088648; genotype: B
+      1 genotype:sample 110706; genotype: B
+      1 genotype:sample 1110053; genotype: B
+      1 genotype:sample 1116407; genotype: C
+      1 genotype:sample 1116994; genotype: C
+      1 genotype:sample 1122543; genotype: B
+      1 genotype:sample 1123680; genotype: C
+      1 genotype:sample 1129657; genotype: B
+      1 genotype:sample 1133147; genotype: C
+      1 genotype:sample 1133602; genotype: B
+      1 genotype:sample 1138656; genotype: B
+      1 genotype:sample 1142147; genotype: C
+      1 genotype:sample 1142731; genotype: C
+      1 genotype:sample 1144734; genotype: B
+      1 genotype:sample 1146335; genotype: B
+      1 genotype:sample 1146638; genotype: C
+      1 genotype:sample 1152853; genotype: B
+      1 genotype:sample 1155676; genotype: B
+      1 genotype:sample 1157444; genotype: C
+      1 genotype:sample 1158124; genotype: B
+      1 genotype:sample 1159307; genotype: B
+      1 genotype:sample 1159582; genotype: B
+      1 genotype:sample 1160060; genotype: B
+      1 genotype:sample 1162271; genotype: B
+      1 genotype:sample 1168043; genotype: C
+      1 genotype:sample 1168050; genotype: B
+      1 genotype:sample 1168152; genotype: B
+      1 genotype:sample 1169873; genotype: C
+      1 genotype:sample 1171762; genotype: C
+      1 genotype:sample 1173653; genotype: B
+      1 genotype:sample 1180343; genotype: B
+      1 genotype:sample 1182155; genotype: B
+      1 genotype:sample 1185922; genotype: C
+      1 genotype:sample 1189200; genotype: B
+      1 genotype:sample 1189543; genotype: C
+      1 genotype:sample 1202527; genotype: B
+      1 genotype:sample 1203613; genotype: B
+      1 genotype:sample 148820; genotype: B
+      1 genotype:sample 155628; genotype: B
+      1 genotype:sample 156111; genotype: C
+      1 genotype:sample 245735; genotype: B
+      1 genotype:sample 255102; genotype: B
+      1 genotype:sample 306319; genotype: C
+      1 genotype:sample 326918; genotype: B
+      1 genotype:sample 329516; genotype: B
+      1 genotype:sample 344600; genotype: B
+      1 genotype:sample 351160; genotype: B
+      1 genotype:sample 382224; genotype: C
+      1 genotype:sample 395086; genotype: B
+      1 genotype:sample 39574; genotype: B
+      1 genotype:sample 442156; genotype: B
+      1 genotype:sample 523633; genotype: C
+      1 genotype:sample 546305; genotype: C
+      1 genotype:sample 588582; genotype: C
+      1 genotype:sample 592731; genotype: B
+      1 genotype:sample 62813; genotype: B
+      1 genotype:sample 647678; genotype: B
+      1 genotype:sample 660190; genotype: B
+      1 genotype:sample 762965; genotype: B
+      1 genotype:sample 77565; genotype: B
+      1 genotype:sample 781295; genotype: B
+      1 genotype:sample 782793; genotype: C
+      1 genotype:sample 798484; genotype: B
+      1 genotype:sample 813900; genotype: B
+      1 genotype:sample 85465; genotype: C
+      1 genotype:sample 857326; genotype: B
+      1 genotype:sample 875329; genotype: B
+      1 genotype:sample 878184; genotype: B
+      1 genotype:sample 898229; genotype: B
+      1 genotype:sample 90665; genotype: B
+      1 genotype:sample 917566; genotype: B
+      1 genotype:sample 950819; genotype: B
+      1 genotype:sample 969938; genotype: B
+      1 genotype:sample 981178; genotype: C
+      1 genotype:sample 989563; genotype: B
+      1 genotype:sample 99690; genotype: C
+      1 genotype:serogroup: adr; genotype: c
+      1 genotype:serogroup: HBsAg positive, HBeAg negative; genotype: A
+      1 genotype:serogroup: HBsAg positive, HBeAg positive; genotype: A
+      1 genotype:serogroup: HBsAg positive, HBeAg positive; genotype: D
+      1 genotype:serological markers HBsAg(+), anti-HBs(-) and HBeAg(-); genotype: D
+      1 genotype:serum isolated from a fulminant hepatitis patient (1714) HBsAg+ HBeAg+; genotype: A
+      1 genotype:serum isolated from black African male patient (PM) with fulminant hepatitis HBsAg+ HBeAg+; genotype: A
+      1 genotype:serum isolated from female patient (DL) with fulminant hepatitis HBsAg+ HBeAg-; genotype: A
+      1 genotype:serum isolated from patient (656) with fulminant hepatitis HBsAg+ HBeAg+; genotype: A
+      1 genotype:serum isolated from patient (KR) with fulminant hepatitis HBsAg+; genotype: A
+      1 genotype:spontaneous acute exacerbation; chronic hepatitis; genotype: B
+      1 genotype:strain isolated before entecavir therapy; subtype: adw2; genotype: C
+      1 genotype:subgenotype:A2; genotype: A
+      1 genotype:subgenotype A3/E; genotype: A/E
+      1 genotype:subgenotype: A6; subtype: ayw1; genotype: A
+      1 genotype:subgenotype B1
+      1 genotype:subgenotype:B1; genotype: B
+      1 genotype:subgenotype=B2; subtype: adw2; genotype: B
+      1 genotype:subgenotype B3
+      1 genotype:subgenotype B3; genotype: B
+      1 genotype:subgenotype B4
+      1 genotype:subgenotype:C2; genotype: C
+      1 genotype:subgenotype C7
+      1 genotype:Subgenotype D3
+      1 genotype:subgenotype=D3; subtype: ayw3; genotype: D
+      1 genotype:subgenotype: D4; genotype: D
+      1 genotype:subgenotype: D5_Del; genotype: D
+      1 genotype:subgenotype: D7_Del; genotype: D
+      1 genotype:subgenotype D/A Recombinant; genotype: D
+      1 genotype:subgenotype D/E; genotype: D/E recombinant
+      1 genotype:subgenotype D; genotype: D
+      1 genotype:subgenotype:F6; [virus wizard]; genotype: F
+      1 genotype:subgenotype I/B recombinant
+      1 genotype:subgenotype novel C
+      1 genotype:subgroup: a2/adw2; genotype: a
+      1 genotype:subgroup: A2; genotype: A
+      1 genotype:subtype: 1A; genotype: F
+      1 genotype:subtype: ad; genotype: C
+      1 genotype:subtype: adr; genotype: Cs
+      1 genotype:subtype: Adw2; genotype: B
+      1 genotype:subtype: adw2?; genotype: D3
+      1 genotype:subtype: adw2; genotype: H
+      1 genotype:subtype: adw4q; genotype: F
+      1 genotype:subtype: adw4q-m; genotype: F
+      1 genotype:subtype: ayw1/2; genotype: D1
+      1 genotype:subtype: ayw1/adw2; genotype: A1
+      1 genotype:subtype: ayw1; genotype: A2
+      1 genotype:subtype: ayw1; genotype: B3
+      1 genotype:subtype: ayw1; genotype: D1
+      1 genotype:subtype: ayw1; genotype: I
+      1 genotype:subtype: ayw2; genotype: A
+      1 genotype:subtype: Ayw2; genotype: D
+      1 genotype:subtype ayw2; genotype: D1
+      1 genotype:subtype: ayw3; genotype: D?
+      1 genotype:subtype: ayw3; genotype: D4
+      1 genotype:subtype: ayw3; genotype: D5
+      1 genotype:subtype: ayw4; genotype: F
+      1 genotype:subtype: ayw4q-; genotype: F
+      1 genotype:subtype: ayw; genotype: C1
+      1 genotype:subtype: ayw; genotype: C2
+      1 genotype:subtype: ayw; genotype: D1
+      1 genotype:subtype: ayw; genotype: Di
+      1 genotype:subtype: B1; genotype: Hiroshima-Bj
+      1 genotype:subtype: D7; genotype: D
+      1 genotype:subtype: F2a; genotype: F
+      1 genotype:subtype: genotype A
+      1 genotype:subtype: sobgenotype:F1b; genotype: F
+      1 genotype:subtype: tentative ayw5; genotype: D
+      1 genotype:subtype: untypable; genotype: A
+      1 genotype:subtype: untypable; genotype: C
+      1 genotype:subtype: untypable; genotype: D
+      1 genotype:subtype: untypeable; genotype: C
+      1 genotype:truncated sequence due to RNA splicing; genotype: C
+      1 genotype:type: Genomic DNA; genotype: D
+      1 genotype:type: genomic DNA; genotype: E
+      1 genotype:UdeA-HBo-TH28 100-1800; genotype: A
+      1 genotype:UdeA_HBo_TH28 1950-2530; genotype: A
+      1 genotype:UdeA-HBo-TH3 1150-1880; genotype: D
+      1 genotype:UdeA-HBo-TH3 1960- end; genotype: D
+      1 genotype:UdeA-HBo-TH75_ almost Complete; genotype: F3
+      1 genotype:UdeA-HBo-TH77 100-2537; genotype: F1
+      1 genotype:UdeA-HBo-TH78 1960; genotype: F3
+      1 genotype:UdeA-HBo-TH78 HBS; genotype: F3
+      1 genotype:UdeA-HBo-TH78_HBx; genotype: F3
+      1 genotype:UdeA_TH3-HBo-TH3_120-740; genotype: D
+      1 genotype:UdeA_TH6 almost complete; genotype: F1
+      1 genotype:variant 1; genotype: D4
+      1 genotype:variant 1; genotype: E
+      1 genotype:variant 2; genotype: E
+      1 genotype:variant 5; genotype: A1
+      1 genotype:variant 6; genotype: A1
+      1 genotype:variant 7; genotype: A1
+      1 genotype:variant 8; genotype: A1
+      1 genotype:[virus wizard]; genotype: D2
