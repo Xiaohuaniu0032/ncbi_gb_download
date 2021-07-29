@@ -69,7 +69,9 @@ for my $h (@headers){
 	my @h = split /\|/,$h;
 	my $name = $h[0];
 	$name =~ s/^\>//;
-	my $gt = $h[1];
+	#my $gt = (split /\:/, $h[1])[1]; # 
+	my $gt = $h[1]; # genotype:genotype: D
+	$gt =~ s/^genotype://;
 	# my $sub_gt = $h[2]; # need to process
 	my $len = $h[3];
 	my $country = $h[4]; # need to precess
@@ -178,7 +180,7 @@ sub process_gt{
 			# genotype E          448
 			# genotype D          310
 			$gt_new = "genotype:".$1;
-		}elsif ($gt =~ /([A-H])$/){
+		}elsif ($gt =~ /^([A-H])$/){
 			# C          390
 			# B          253
 			# A          84
